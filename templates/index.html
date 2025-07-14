@@ -504,8 +504,16 @@
                 console.log('Upload response data:', data);
                 if (data.success) {
                     showUploadedFile(data.filename, data.image_url, file);
+                    // Enable run button and disable search button for new upload
                     document.getElementById('runBtn').disabled = false;
-                    showSuccess('File uploaded successfully!');
+                    document.getElementById('searchBtn').disabled = true;
+                    
+                    // Clear previous results when new image is uploaded
+                    document.getElementById('resultsSection').style.display = 'none';
+                    document.getElementById('databaseSection').style.display = 'none';
+                    hideMessage();
+                    
+                    showSuccess('File uploaded successfully! Click "Run Detection" to process the new image.');
                 } else {
                     showError(data.error || 'Upload failed');
                 }
