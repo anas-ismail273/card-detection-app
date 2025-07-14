@@ -156,12 +156,27 @@ class OCRProcessor:
                         bbox = line[0]
                         text_info = line[1]
                         text = text_info[0] if isinstance(text_info, (list, tuple)) else text_info
-                        conf = text_info[1] if isinstance(text_info, (list, tuple)) and len(text_info) > 1 else 0.0
+                        
+                        # Handle confidence value with proper error handling
+                        conf = 0.0
+                        if isinstance(text_info, (list, tuple)) and len(text_info) > 1:
+                            try:
+                                conf = float(text_info[1])
+                            except (ValueError, TypeError):
+                                # If conversion fails, default to 0.0
+                                conf = 0.0
+                        
+                        # Handle bbox coordinates with proper error handling
+                        try:
+                            bbox_coords = [[float(pt[0]), float(pt[1])] for pt in bbox]
+                        except (ValueError, TypeError, IndexError):
+                            # If bbox conversion fails, use empty bbox
+                            bbox_coords = []
                         
                         extracted.append({
                             "text": text,
-                            "confidence": float(conf),
-                            "bbox": [[float(pt[0]), float(pt[1])] for pt in bbox]
+                            "confidence": conf,
+                            "bbox": bbox_coords
                         })
 
                 self.results[img_path] = extracted
