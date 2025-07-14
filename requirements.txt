@@ -1,14 +1,14 @@
-flask==2.3.3
-werkzeug==2.3.7
-pandas==2.0.3
-numpy==1.24.3
-pillow==10.0.1
-torch==2.0.1+cpu --find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-torchvision==0.15.2+cpu --find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-ultralytics==8.0.196
-opencv-python-headless==4.8.1.78
-paddleocr==2.7.0.3
-paddlepaddle==2.5.1
-openai==1.3.5
-jiwer==3.0.3
-python-dotenv==1.0.0
+flask
+werkzeug
+pandas
+numpy
+pillow
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+ultralytics
+opencv-python-headless
+paddleocr
+paddlepaddle
+openai
+jiwer
+python-dotenv
