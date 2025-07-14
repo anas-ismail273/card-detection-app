@@ -151,8 +151,10 @@ class OCRProcessor:
                     continue
 
                 extracted = []
+                print(f"Found {ocr_result[0]} text lines in {img_path}")
                 for line in ocr_result[0]:
                     if line and len(line) >= 2:
+                        print(f"Processing line: {line}")
                         bbox = line[0]
                         text_info = line[1]
                         text = text_info[0] if isinstance(text_info, (list, tuple)) else text_info
