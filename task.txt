@@ -1,0 +1,32 @@
+I want to have a web app for this project. The web app and the flow should be as follows:
+
+First Flow:
+- When the user opens the app, they should be able to upload an image (which may contain a single card, multiple cards, etc.).
+- After uploading, a "Run" button should be visible.
+- Once the user clicks "Run", there should be **two output sections displayed side by side** for comparison:
+
+  Part 1:
+  - The output should be the JSON result from the OCR, beautified.
+  - Each card should be shown in a clear format:
+    Example:
+    card1: "the text of card 1",
+    card2: "the text of card 2",
+    ...
+
+  Part 2:
+  - The output should be the result from the LLM, displayed with the same format:
+    card1: "LLM result for card 1",
+    card2: "LLM result for card 2",
+    ...
+
+Second Flow:
+- The user should also be able to click on "Search in our database".
+- In this case, the output should come from `string_matcher.py`.
+
+Additional Instructions:
+- Use and refactor the **provided model and code** to build this web app.
+- The application should integrate the existing functionality within the given files, adapting them as necessary for a web interface.
+
+Notes:
+- No databases need to be used.
+- Once the page is refreshed, all uploaded data and results should be reset.

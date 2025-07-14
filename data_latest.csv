@@ -1,0 +1,916 @@
+game_name,card_title,description,tags,figure_name,power,suit,rank,extra_notes
+Poker,Ace of Hearts,N/A,N/A,Ace,N/A,Hearts,A,N/A
+Poker,2 of Hearts,N/A,N/A,N/A,N/A,Hearts,2,N/A
+Poker,3 of Hearts,N/A,N/A,N/A,N/A,Hearts,3,N/A
+Poker,4 of Hearts,N/A,N/A,N/A,N/A,Hearts,4,N/A
+Poker,5 of Hearts,N/A,N/A,N/A,N/A,Hearts,5,N/A
+Poker,6 of Hearts,N/A,N/A,N/A,N/A,Hearts,6,N/A
+Poker,7 of Hearts,N/A,N/A,N/A,N/A,Hearts,7,N/A
+Poker,8 of Hearts,N/A,N/A,N/A,N/A,Hearts,8,N/A
+Poker,9 of Hearts,N/A,N/A,N/A,N/A,Hearts,9,N/A
+Poker,10 of Hearts,N/A,N/A,N/A,N/A,Hearts,10,N/A
+Poker,Jack of Hearts,N/A,Face Card,Jack,N/A,Hearts,J,N/A
+Poker,Queen of Hearts,N/A,Face Card,Queen,N/A,Hearts,Q,N/A
+Poker,King of Hearts,N/A,Face Card,King,N/A,Hearts,K,N/A
+Poker,Ace of Diamonds,N/A,N/A,Ace,N/A,Diamonds,A,N/A
+Poker,2 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,2,N/A
+Poker,3 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,3,N/A
+Poker,4 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,4,N/A
+Poker,5 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,5,N/A
+Poker,6 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,6,N/A
+Poker,7 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,7,N/A
+Poker,8 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,8,N/A
+Poker,9 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,9,N/A
+Poker,10 of Diamonds,N/A,N/A,N/A,N/A,Diamonds,10,N/A
+Poker,Jack of Diamonds,N/A,Face Card,Jack,N/A,Diamonds,J,N/A
+Poker,Queen of Diamonds,N/A,Face Card,Queen,N/A,Diamonds,Q,N/A
+Poker,King of Diamonds,N/A,Face Card,King,N/A,Diamonds,K,N/A
+Poker,Ace of Clubs,N/A,N/A,Ace,N/A,Clubs,A,N/A
+Poker,2 of Clubs,N/A,N/A,N/A,N/A,Clubs,2,N/A
+Poker,3 of Clubs,N/A,N/A,N/A,N/A,Clubs,3,N/A
+Poker,4 of Clubs,N/A,N/A,N/A,N/A,Clubs,4,N/A
+Poker,5 of Clubs,N/A,N/A,N/A,N/A,Clubs,5,N/A
+Poker,6 of Clubs,N/A,N/A,N/A,N/A,Clubs,6,N/A
+Poker,7 of Clubs,N/A,N/A,N/A,N/A,Clubs,7,N/A
+Poker,8 of Clubs,N/A,N/A,N/A,N/A,Clubs,8,N/A
+Poker,9 of Clubs,N/A,N/A,N/A,N/A,Clubs,9,N/A
+Poker,10 of Clubs,N/A,N/A,N/A,N/A,Clubs,10,N/A
+Poker,Jack of Clubs,N/A,Face Card,Jack,N/A,Clubs,J,N/A
+Poker,Queen of Clubs,N/A,Face Card,Queen,N/A,Clubs,Q,N/A
+Poker,King of Clubs,N/A,Face Card,King,N/A,Clubs,K,N/A
+Poker,Ace of Spades,N/A,N/A,Ace,N/A,Spades,A,N/A
+Poker,2 of Spades,N/A,N/A,N/A,N/A,Spades,2,N/A
+Poker,3 of Spades,N/A,N/A,N/A,N/A,Spades,3,N/A
+Poker,4 of Spades,N/A,N/A,N/A,N/A,Spades,4,N/A
+Poker,5 of Spades,N/A,N/A,N/A,N/A,Spades,5,N/A
+Poker,6 of Spades,N/A,N/A,N/A,N/A,Spades,6,N/A
+Poker,7 of Spades,N/A,N/A,N/A,N/A,Spades,7,N/A
+Poker,8 of Spades,N/A,N/A,N/A,N/A,Spades,8,N/A
+Poker,9 of Spades,N/A,N/A,N/A,N/A,Spades,9,N/A
+Poker,10 of Spades,N/A,N/A,N/A,N/A,Spades,10,N/A
+Poker,Jack of Spades,N/A,Face Card,Jack,N/A,Spades,J,N/A
+Poker,Queen of Spades,N/A,Face Card,Queen,N/A,Spades,Q,N/A
+Poker,King of Spades,N/A,Face Card,King,N/A,Spades,K,N/A
+Poker,Joker,N/A,Wild,N/A,N/A,N/A,N/A,Special wild card
+Poker,Joker,N/A,Wild,N/A,N/A,N/A,N/A,Special wild card
+Skat,7 of Acorns,N/A,N/A,N/A,N/A,Acorns,7,N/A
+Skat,8 of Acorns,N/A,N/A,N/A,N/A,Acorns,8,N/A
+Skat,9 of Acorns,N/A,N/A,N/A,N/A,Acorns,9,N/A
+Skat,10 of Acorns,N/A,N/A,N/A,N/A,Acorns,10,N/A
+Skat,Unter of Acorns,N/A,Face Card,Unter,N/A,Acorns,U,N/A
+Skat,Ober of Acorns,N/A,Face Card,Ober,N/A,Acorns,O,N/A
+Skat,King of Acorns,N/A,Face Card,King,N/A,Acorns,K,N/A
+Skat,Ace of Acorns,N/A,N/A,Ace,N/A,Acorns,A,N/A
+Skat,7 of Leaves,N/A,N/A,N/A,N/A,Leaves,7,N/A
+Skat,8 of Leaves,N/A,N/A,N/A,N/A,Leaves,8,N/A
+Skat,9 of Leaves,N/A,N/A,N/A,N/A,Leaves,9,N/A
+Skat,10 of Leaves,N/A,N/A,N/A,N/A,Leaves,10,N/A
+Skat,Unter of Leaves,N/A,Face Card,Unter,N/A,Leaves,U,N/A
+Skat,Ober of Leaves,N/A,Face Card,Ober,N/A,Leaves,O,N/A
+Skat,King of Leaves,N/A,Face Card,King,N/A,Leaves,K,N/A
+Skat,Ace of Leaves,N/A,N/A,Ace,N/A,Leaves,A,N/A
+Skat,7 of Hearts,N/A,N/A,N/A,N/A,Hearts,7,N/A
+Skat,8 of Hearts,N/A,N/A,N/A,N/A,Hearts,8,N/A
+Skat,9 of Hearts,N/A,N/A,N/A,N/A,Hearts,9,N/A
+Skat,10 of Hearts,N/A,N/A,N/A,N/A,Hearts,10,N/A
+Skat,Unter of Hearts,N/A,Face Card,Unter,N/A,Hearts,U,N/A
+Skat,Ober of Hearts,N/A,Face Card,Ober,N/A,Hearts,O,N/A
+Skat,King of Hearts,N/A,Face Card,King,N/A,Hearts,K,N/A
+Skat,Ace of Hearts,N/A,N/A,Ace,N/A,Hearts,A,N/A
+Skat,7 of Bells,N/A,N/A,N/A,N/A,Bells,7,N/A
+Skat,8 of Bells,N/A,N/A,N/A,N/A,Bells,8,N/A
+Skat,9 of Bells,N/A,N/A,N/A,N/A,Bells,9,N/A
+Skat,10 of Bells,N/A,N/A,N/A,N/A,Bells,10,N/A
+Skat,Unter of Bells,N/A,Face Card,Unter,N/A,Bells,U,N/A
+Skat,Ober of Bells,N/A,Face Card,Ober,N/A,Bells,O,N/A
+Skat,King of Bells,N/A,Face Card,King,N/A,Bells,K,N/A
+Skat,Ace of Bells,N/A,N/A,Ace,N/A,Bells,A,N/A
+French Tarot,Ace of Hearts,N/A,N/A,Ace,N/A,Hearts,1,N/A
+French Tarot,2 of Hearts,N/A,N/A,N/A,N/A,Hearts,2,N/A
+French Tarot,10 of Hearts,N/A,N/A,N/A,N/A,Hearts,10,N/A
+French Tarot,Jack of Hearts,N/A,Face Card,Jack,N/A,Hearts,J,N/A
+French Tarot,Knight of Hearts,N/A,Face Card,Knight,N/A,Hearts,Kn,N/A
+French Tarot,Queen of Hearts,N/A,Face Card,Queen,N/A,Hearts,Q,N/A
+French Tarot,King of Hearts,N/A,Face Card,King,N/A,Hearts,K,N/A
+French Tarot,Ace of Spades,N/A,N/A,Ace,N/A,Spades,1,N/A
+French Tarot,Jack of Spades,N/A,Face Card,Jack,N/A,Spades,J,N/A
+French Tarot,Knight of Spades,N/A,Face Card,Knight,N/A,Spades,Kn,N/A
+French Tarot,Trump I,Represents beginning or initiation,Trump,N/A,N/A,Trump,1,Major Arcana
+French Tarot,Trump II,Symbol of wisdom and secrets,Trump,N/A,N/A,Trump,2,Major Arcana
+French Tarot,Trump XXI,Represents completion,Trump,N/A,N/A,Trump,21,Major Arcana
+French Tarot,The Fool,Excuse card,Wild,N/A,N/A,N/A,N/A,Excuse or Fool card in Tarot
+French Tarot,Ace of Diamonds,N/A,N/A,Ace,N/A,Diamonds,1,N/A
+French Tarot,Knight of Diamonds,N/A,Face Card,Knight,N/A,Diamonds,Kn,N/A
+French Tarot,Queen of Diamonds,N/A,Face Card,Queen,N/A,Diamonds,Q,N/A
+French Tarot,King of Diamonds,N/A,Face Card,King,N/A,Diamonds,K,N/A
+French Tarot,Ace of Clubs,N/A,N/A,Ace,N/A,Clubs,1,N/A
+French Tarot,Knight of Clubs,N/A,Face Card,Knight,N/A,Clubs,Kn,N/A
+Magic: The Gathering,Llanowar Elves,"{T}: Add {G}.",Creature,Elf Druid,1/1,N/A,N/A,Green mana ramp
+Magic: The Gathering,Lightning Bolt,"Lightning Bolt deals 3 damage to any target.",Instant,Spell,N/A,N/A,N/A,Classic red burn
+Magic: The Gathering,Serra Angel,"Flying, vigilance",Creature,Angel,4/4,N/A,N/A,White midrange staple
+Magic: The Gathering,Counterspell,"Counter target spell.",Instant,Spell,N/A,N/A,N/A,Classic blue control
+Magic: The Gathering,Shivan Dragon,"Flying. {R}: Shivan Dragon gets +1/+0 until end of turn.",Creature,Dragon,5/5,N/A,N/A,Iconic red finisher
+Magic: The Gathering,Black Lotus,"{T}, Sacrifice Black Lotus: Add three mana of any one color.",Artifact,Artifact,N/A,N/A,N/A,Power Nine
+Magic: The Gathering,Forest,N/A,Land,Basic Land,N/A,N/A,N/A,Green mana source
+Magic: The Gathering,Swamp,N/A,Land,Basic Land,N/A,N/A,N/A,Black mana source
+Magic: The Gathering,Jace, the Mind Sculptor,"+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library. 0: Draw three cards, then put two cards from your hand on top of your library in any order. -1: Return target creature to its owner's hand. -12: Exile all cards from target player's library, then that player shuffles their hand into their library.",Planeswalker,Jace,4,N/A,N/A,Iconic blue planeswalker
+Magic: The Gathering,Giant Growth,"Target creature gets +3/+3 until end of turn.",Instant,Spell,N/A,N/A,N/A,Green combat trick
+Pokémon TCG,Pikachu,"Electric attack: 30 damage. Ability: Static may paralyze opponent.",Basic Pokémon,Mouse Pokémon,60 HP,N/A,N/A,Iconic Electric-type
+Pokémon TCG,Charizard,"Fire Spin: 100 damage, discard 2 Energy cards.",Stage 2 Pokémon,Flame Pokémon,150 HP,N/A,N/A,Popular Fire-type final evolution
+Pokémon TCG,Blastoise,"Hydro Pump: 40 damage plus 10 more damage for each Water Energy attached.",Stage 2 Pokémon,Shellfish Pokémon,140 HP,N/A,N/A,Water-type starter final evolution
+Pokémon TCG,Venusaur,"Solar Beam: 80 damage, discard 1 Energy.",Stage 2 Pokémon,Seed Pokémon,160 HP,N/A,N/A,Grass-type final evolution
+Pokémon TCG,Mewtwo,"Psychic attack: 60 damage. Ability: Pressure forces opponent to discard Energy.",Basic Pokémon,Genetic Pokémon,130 HP,N/A,N/A,Powerful Psychic-type
+Pokémon TCG,Eevee,"Tail Whip: No damage. Evolves into multiple forms.",Basic Pokémon,Evolution Pokémon,50 HP,N/A,N/A,Popular evolution base
+Pokémon TCG,Gyarados,"Dragon Rage: 120 damage.",Stage 1 Pokémon,Atrocious Pokémon,170 HP,N/A,N/A,Powerful Water-type evolution
+Pokémon TCG,Snorlax,"Body Slam: 80 damage, may cause paralysis.",Basic Pokémon,Sleeping Pokémon,130 HP,N/A,N/A,High HP tank
+Pokémon TCG,Jigglypuff,"Sing: Opponent’s Active Pokémon is asleep.",Basic Pokémon,Balloon Pokémon,60 HP,N/A,N/A,Status infliction support
+Pokémon TCG,Alakazam,"Damage Swap: Move damage counters.",Stage 2 Pokémon,Mentor Pokémon,120 HP,N/A,N/A,Strategic Psychic-type
+Pokémon TCG,Magikarp,"Splash: No damage.",Basic Pokémon,Fish Pokémon,30 HP,N/A,N/A,Weak but evolvable
+Pokémon TCG,Dragonite,"Hyper Beam: 100 damage, may paralyze.",Stage 2 Pokémon,Dragon Pokémon,160 HP,N/A,N/A,Strong Dragon-type
+Pokémon TCG,Scyther,"Slash: 40 damage.",Basic Pokémon,Mantis Pokémon,70 HP,N/A,N/A,Fast attacker
+Pokémon TCG,Pidgeot,"Hurricane: 60 damage.",Stage 2 Pokémon,Bird Pokémon,120 HP,N/A,N/A,Flying-type
+Pokémon TCG,Onix,"Rock Throw: 30 damage.",Basic Pokémon,Rock Snake Pokémon,90 HP,N/A,N/A,High defense
+Pokémon TCG,Poliwrath,"Hypnosis: Puts opponent to sleep.",Stage 2 Pokémon,Tadpole Pokémon,130 HP,N/A,N/A,Water/Fighting dual type
+Pokémon TCG,Clefable,"Metronome: Copies opponent’s last attack.",Stage 1 Pokémon,Fairy Pokémon,80 HP,N/A,N/A,Trickster Pokémon
+Pokémon TCG,Hitmonchan,"Punch: 50 damage.",Basic Pokémon,Punching Pokémon,70 HP,N/A,N/A,Fighting-type
+Pokémon TCG,Electabuzz,"Thunder Punch: 60 damage.",Basic Pokémon,Electric Pokémon,80 HP,N/A,N/A,Electric-type attacker
+Pokémon TCG,Arcanine,"Flame Tail: 70 damage.",Stage 1 Pokémon,Legendary Pokémon,120 HP,N/A,N/A,Powerful Fire-type
+Pokémon TCG,Dugtrio,"Earthquake: 80 damage.",Stage 1 Pokémon,Mole Pokémon,70 HP,N/A,N/A,Ground-type attacker
+Pokémon TCG,Nidoking,"Poison Sting: 30 damage, may poison.",Stage 2 Pokémon,Drill Pokémon,130 HP,N/A,N/A,Poison/Ground dual type
+Pokémon TCG,Nidoqueen,"Body Slam: 60 damage, may paralyze.",Stage 2 Pokémon,Drill Pokémon,130 HP,N/A,N/A,Poison/Ground dual type
+Pokémon TCG,Chansey,"Egg Bomb: 50 damage.",Basic Pokémon,Egg Pokémon,120 HP,N/A,N/A,Support and healing
+Pokémon TCG,Lapras,"Ice Beam: 60 damage, may freeze.",Basic Pokémon,Transport Pokémon,130 HP,N/A,N/A,Water/Ice-type
+Pokémon TCG,Mr. Mime,"Barrier: Prevents all damage.",Basic Pokémon,Barrier Pokémon,50 HP,N/A,N/A,Defensive Pokémon
+Pokémon TCG,Gengar,"Shadow Punch: 60 damage.",Stage 2 Pokémon,Shadow Pokémon,130 HP,N/A,N/A,Ghost/Poison-type
+Pokémon TCG,Slowbro,"Withdraw: Avoids damage.",Stage 1 Pokémon,Hermit Crab Pokémon,110 HP,N/A,N/A,Water/Psychic-type
+Pokémon TCG,Farfetch’d,"Stick Attack: 20 damage.",Basic Pokémon,Duck Pokémon,50 HP,N/A,N/A,Classic Pokémon
+Pokémon TCG,Crobat,"Cross Poison: 80 damage.",Stage 2 Pokémon,Bat Pokémon,130 HP,N/A,N/A,Poison/Flying-type
+Pokémon TCG,Flareon,"Flamethrower: 90 damage.",Stage 1 Pokémon,Flame Pokémon,110 HP,N/A,N/A,Fire-type evolution
+Pokémon TCG,Vaporeon,"Water Gun: 40 damage.",Stage 1 Pokémon,Bubble Jet Pokémon,110 HP,N/A,N/A,Water-type evolution
+Pokémon TCG,Jolteon,"Thunder Shock: 50 damage.",Stage 1 Pokémon,Lightning Pokémon,110 HP,N/A,N/A,Electric-type evolution
+Pokémon TCG,Machamp,"Seismic Toss: 70 damage.",Stage 2 Pokémon,Superpower Pokémon,150 HP,N/A,N/A,Fighting-type
+Pokémon TCG,Articuno,"Blizzard: 90 damage.",Basic Pokémon,Freeze Pokémon,130 HP,N/A,N/A,Legendary Ice-type
+Pokémon TCG,Zapdos,"Thunderbolt: 100 damage.",Basic Pokémon,Electric Pokémon,130 HP,N/A,N/A,Legendary Electric-type
+Pokémon TCG,Moltres,"Flare Blitz: 90 damage.",Basic Pokémon,Flame Pokémon,130 HP,N/A,N/A,Legendary Fire-type
+Pokémon TCG,Dragonair,"Dragon Tail: 40 damage.",Stage 1 Pokémon,Dragon Pokémon,90 HP,N/A,N/A,Dragon evolution
+Pokémon TCG,Dragonite,"Hyper Beam: 120 damage.",Stage 2 Pokémon,Dragon Pokémon,160 HP,N/A,N/A,Powerful Dragon-type
+Pokémon TCG,Snorlax,"Rollout: 100 damage.",Basic Pokémon,Sleeping Pokémon,150 HP,N/A,N/A,High HP attacker
+Pokémon TCG,Lugia,"Aeroblast: 120 damage.",Basic Pokémon,Guardian of the Seas,140 HP,N/A,N/A,Legendary Psychic/Flying-type
+Pokémon TCG,Ho-Oh,"Sacred Fire: 100 damage.",Basic Pokémon,Rainbow Pokémon,130 HP,N/A,N/A,Legendary Fire/Flying-type
+Pokémon TCG,Blaziken,"Fire Punch: 90 damage.",Stage 2 Pokémon,Blaze Pokémon,140 HP,N/A,N/A,Fire/Fighting-type
+Pokémon TCG,Sceptile,"Leaf Blade: 80 damage.",Stage 2 Pokémon,Forest Pokémon,130 HP,N/A,N/A,Grass-type
+Pokémon TCG,Swampert,"Mud Shot: 90 damage.",Stage 2 Pokémon,Mud Fish Pokémon,140 HP,N/A,N/A,Water/Ground-type
+Pokémon TCG,Gardevoir,"Psychic: 90 damage.",Stage 2 Pokémon,Mental Pokémon,130 HP,N/A,N/A,Psychic/Fairy-type
+Pokémon TCG,Lucario,"Aura Sphere: 80 damage.",Stage 2 Pokémon,Aura Pokémon,120 HP,N/A,N/A,Fighting/Steel-type
+Pokémon TCG,Infernape,"Flare Blitz: 100 damage.",Stage 2 Pokémon,Flame Pokémon,130 HP,N/A,N/A,Fire/Fighting-type
+Pokémon TCG,Torterra,"Earthquake: 110 damage.",Stage 2 Pokémon,Turtle Pokémon,150 HP,N/A,N/A,Grass/Ground-type
+Pokémon TCG,Garchomp,"Dragon Claw: 120 damage.",Stage 2 Pokémon,Mach Pokémon,150 HP,N/A,N/A,Dragon/Ground-type
+Magic: The Gathering,Absolute Virtue,"This spell can't be countered.
+Flying
+You have protection from each of your opponents. (You can't be dealt damage, enchanted, or targeted by anything controlled by your opponents.)",Legendary Creature — Avatar Warrior,Absolute Virtue,8,"U,W",mythic,
+Magic: The Gathering,Adelbert Steiner,"Lifelink
+Adelbert Steiner gets +1/+1 for each Equipment you control.",Legendary Creature — Human Knight,Adelbert Steiner,2,W,uncommon,"""Chivalry requires a knight to look after his comrades-in-arms. I will not abandon you!"""
+Magic: The Gathering,Adventurer's Airship,"Flying
+Whenever this Vehicle attacks, draw a card, then discard a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",Artifact — Vehicle,Adventurer's Airship,3,,common,
+Magic: The Gathering,Adventurer's Inn,"When this land enters, you gain 2 life.
+{T}: Add {C}.",Land — Town,Adventurer's Inn,,,common,"""Welcome! We have rooms for 200 gil a night. Would you like to stay and rest your body and mind?""
+—Innkeep"
+Magic: The Gathering,Aerith Gainsborough,"Lifelink
+Whenever you gain life, put a +1/+1 counter on Aerith Gainsborough.
+When Aerith Gainsborough dies, put X +1/+1 counters on each legendary creature you control, where X is the number of +1/+1 counters on Aerith Gainsborough.",Legendary Creature — Human Cleric,Aerith Gainsborough,2,W,rare,
+Magic: The Gathering,Aerith Rescue Mission,"Choose one —
+• Take the Elevator — Create three 1/1 colorless Hero creature tokens.
+• Take 59 Flights of Stairs — Tap up to three target creatures. Put a stun counter on one of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)",Sorcery,Aerith Rescue Mission,,W,common,
+Magic: The Gathering,Aettir and Priwen,"Equipped creature has base power and toughness X/X, where X is your life total.
+Equip {5}",Legendary Artifact — Equipment,Aettir and Priwen,,,mythic,"""The pinnacle o' perfection, forged from blood, sweat, an' tears!""
+—Gerolt Blackthorne"
+Magic: The Gathering,Ahriman,"Flying, deathtouch
+{3}, Sacrifice another creature or artifact: Draw a card.",Creature — Eye Horror,Ahriman,2,B,common,"""The Wrath of Dark has nearly reached its zenith! No one can stop it! Least of all you!"""
+Magic: The Gathering,Airship Crash,"Destroy target artifact, enchantment, or creature with flying.
+Cycling {2} ({2}, Discard this card: Draw a card.)",Instant,Airship Crash,,G,common,"""Just our luck to crash in this forest... it's gonna get interesting...""
+—Baku, Tantalus leader"
+Magic: The Gathering,Al Bhed Salvagers,"Whenever this creature or another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life.",Creature — Human Artificer Warrior,Al Bhed Salvagers,2,B,uncommon,"""We found the airship! The records were right."""
+Magic: The Gathering,Ambrosia Whiteheart,"Flash
+When Ambrosia Whiteheart enters, you may return another permanent you control to its owner's hand.
+Landfall — Whenever a land you control enters, Ambrosia Whiteheart gets +1/+0 until end of turn.",Legendary Creature — Bird,Ambrosia Whiteheart,2,W,uncommon,
+Magic: The Gathering,Ancient Adamantoise,"Vigilance, ward {3}
+Damage isn't removed from this creature during cleanup steps.
+All damage that would be dealt to you and other permanents you control is dealt to this creature instead.
+When this creature dies, exile it and create ten tapped Treasure tokens.",Creature — Turtle,Ancient Adamantoise,8,G,mythic,
+Magic: The Gathering,"Ardyn, the Usurper","Demons you control have menace, lifelink, and haste.
+Starscourge — At the beginning of combat on your turn, exile up to one target creature card from a graveyard. If you exiled a card this way, create a token that's a copy of that card, except it's a 5/5 black Demon.",Legendary Creature — Elder Human Noble,"Ardyn, the Usurper",4,B,rare,
+Magic: The Gathering,A Realm Reborn,"Other permanents you control have ""{T}: Add one mana of any color.""",Enchantment,A Realm Reborn,,G,rare,"""The Seventh Astral Era is come!"""
+Magic: The Gathering,"Ashe, Princess of Dalmasca","Whenever Ashe attacks, look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",Legendary Creature — Human Rebel Noble,"Ashe, Princess of Dalmasca",3,W,uncommon,"""I am simply myself. No more and no less. And I want only to be free."""
+Magic: The Gathering,Astrologian's Planisphere,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature is a Wizard in addition to its other types and has ""Whenever you cast a noncreature spell and whenever you draw your third card each turn, put a +1/+1 counter on this creature.""
+Diana — Equip {2}",Artifact — Equipment,Astrologian's Planisphere,,U,rare,
+Magic: The Gathering,Auron's Inspiration,"Attacking creatures get +2/+0 until end of turn.
+Flashback {2}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Instant,Auron's Inspiration,,W,uncommon,"""Now is the time to choose! Now is the time to shape your stories! Your fate is in your hands!""
+—Auron"
+Magic: The Gathering,"Balamb Garden, SeeD Academy // Balamb Garden, Airborne",,Land — Town // Legendary Artifact — Vehicle,"Balamb Garden, SeeD Academy // Balamb Garden, Airborne",,,rare,
+Magic: The Gathering,Balamb T-Rexaur,"Trample
+When this creature enters, you gain 3 life.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",Creature — Dinosaur,Balamb T-Rexaur,6,G,common,"""Sometimes it's better to run!""
+—Quistis Trepe"
+Magic: The Gathering,Balthier and Fran,"Reach
+Vehicles you control get +1/+1 and have vigilance and reach.
+Whenever a Vehicle crewed by Balthier and Fran this turn attacks, if it's the first combat phase of the turn, you may pay {1}{R}{G}. If you do, after this phase, there is an additional combat phase.",Legendary Creature — Human Rabbit,Balthier and Fran,4,"G,R",rare,
+Magic: The Gathering,Bard's Bow,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +2/+2, has reach, and is a Bard in addition to its other types.
+Perseus's Bow — Equip {6} ({6}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,Bard's Bow,,G,common,
+Magic: The Gathering,"Baron, Airship Kingdom","This land enters tapped.
+{T}: Add {U} or {R}.",Land — Town,"Baron, Airship Kingdom",,,common,"The advent of the airship marked the realization of Baron's dreams, but also the birth of its militarism."
+Magic: The Gathering,Barret Wallace,"Reach
+Whenever Barret Wallace attacks, it deals damage equal to the number of equipped creatures you control to defending player.",Legendary Creature — Human Rebel,Barret Wallace,4,R,uncommon,"""You gonna stand there and pretend you can't hear the planet crying out in pain?"""
+Magic: The Gathering,Bartz and Boko,"Affinity for Birds (This spell costs {1} less to cast for each Bird you control.)
+When Bartz and Boko enters, each other Bird you control deals damage equal to its power to target creature an opponent controls.",Legendary Creature — Human Bird,Bartz and Boko,4,G,rare,"""Call me Bartz. Me and my chocobo just go wherever the trail leads us..."""
+Magic: The Gathering,Battle Menu,"Choose one —
+• Attack — Create a 2/2 white Knight creature token.
+• Ability — Target creature gets +0/+4 until end of turn.
+• Magic — Destroy target creature with power 4 or greater.
+• Item — You gain 4 life.",Instant,Battle Menu,,W,uncommon,
+Magic: The Gathering,"Beatrix, Loyal General","Vigilance (Attacking doesn't cause this creature to tap.)
+At the beginning of combat on your turn, you may attach any number of Equipment you control to target creature you control.",Legendary Creature — Human Soldier,"Beatrix, Loyal General",4,W,rare,"""I commend your courage, but I will show you no mercy."""
+Magic: The Gathering,Black Mage's Rod,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+0, has ""Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent,"" and is a Wizard in addition to its other types.
+Equip {3}",Artifact — Equipment,Black Mage's Rod,,B,common,
+Magic: The Gathering,Black Waltz No. 3,"Flying, deathtouch
+Whenever you cast a noncreature spell, Black Waltz No. 3 deals 2 damage to each opponent.",Legendary Creature — Wizard,Black Waltz No. 3,2,"B,R",uncommon,"""You fool. Do I look like some lowly black mage soldier?"""
+Magic: The Gathering,Blazing Bomb,"Whenever you cast a noncreature spell, if at least four mana was spent to cast it, put a +1/+1 counter on this creature.
+Blow Up — {T}, Sacrifice this creature: It deals damage equal to its power to target creature. Activate only as a sorcery.",Creature — Elemental,Blazing Bomb,1,R,common,
+Magic: The Gathering,Blitzball,"{T}: Add one mana of any color.
+GOOOOAAAALLL! — {T}, Sacrifice this artifact: Draw two cards. Activate only if an opponent was dealt combat damage by a legendary creature this turn.",Artifact,Blitzball,,,common,
+Magic: The Gathering,Blitzball Shot,Target creature gets +3/+3 and gains trample until end of turn.,Instant,Blitzball Shot,,G,common,"""Everyone seems to be calling for Wakka, folks!""
+—Blitzball announcer"
+Magic: The Gathering,Buster Sword,"Equipped creature gets +3/+2.
+Whenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.
+Equip {2}",Artifact — Equipment,Buster Sword,,,mythic,
+Magic: The Gathering,Cactuar,"Trample
+At the beginning of your end step, if this creature didn't enter the battlefield this turn, return it to its owner's hand.",Creature — Plant,Cactuar,3,G,uncommon,A cactus with legs that loves to run hither and thither. Watch out for its thorns!
+Magic: The Gathering,Call the Mountain Chocobo,"Search your library for a Mountain card, reveal it, put it into your hand, then shuffle. Create a 2/2 green Bird creature token with ""Whenever a land you control enters, this token gets +1/+0 until end of turn.""
+Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Sorcery,Call the Mountain Chocobo,,R,common,
+Magic: The Gathering,Capital City,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+Cycling {2} ({2}, Discard this card: Draw a card.)",Land — Town,Capital City,,,uncommon,A city built upon the Isles of Ark that straddle the continents of Storm and Ash.
+Magic: The Gathering,Cargo Ship,"Flying, vigilance
+{T}: Add {C}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",Artifact — Vehicle,Cargo Ship,2,U,uncommon,
+Magic: The Gathering,"Cecil, Dark Knight // Cecil, Redeemed Paladin",,Legendary Creature — Human Knight // Legendary Creature — Human Knight,"Cecil, Dark Knight // Cecil, Redeemed Paladin",,,rare,
+Magic: The Gathering,Chocobo Kick,"Kicker—Return a land you control to its owner's hand. (You may return a land you control to its owner's hand in addition to any other costs as you cast this spell.)
+Target creature you control deals damage equal to its power to target creature an opponent controls. If this spell was kicked, the creature you control deals twice that much damage instead.",Sorcery,Chocobo Kick,,G,common,
+Magic: The Gathering,Chocobo Racetrack,"Landfall — Whenever a land you control enters, create a 2/2 green Bird creature token with ""Whenever a land you control enters, this token gets +1/+0 until end of turn.""",Artifact,Chocobo Racetrack,,G,uncommon,"""No matter how you make your bet, you win some and you lose some. It all comes down to skill and luck.""
+—Racing expert"
+Magic: The Gathering,Choco-Comet,"Choco-Comet deals X damage to any target.
+Create a 2/2 green Bird creature token with ""Whenever a land you control enters, this token gets +1/+0 until end of turn.""",Sorcery,Choco-Comet,,R,uncommon,"The other colorations of chocobo tend to be quite violent, giving rise to the saying: ""Yellow, best for riding; aught else, best be hiding."""
+Magic: The Gathering,"Choco, Seeker of Paradise","Whenever one or more Birds you control attack, look at that many cards from the top of your library. You may put one of them into your hand. Then put any number of land cards from among them onto the battlefield tapped and the rest into your graveyard.
+Landfall — Whenever a land you control enters, Choco gets +1/+0 until end of turn.",Legendary Creature — Bird,"Choco, Seeker of Paradise",3,"G,U,W",rare,
+Magic: The Gathering,"Cid, Timeless Artificer","Artifact creatures and Heroes you control get +1/+1 for each Artificer you control and each Artificer card in your graveyard.
+A deck can have any number of cards named Cid, Timeless Artificer.
+Cycling {W}{U} ({W}{U}, Discard this card: Draw a card.)",Legendary Creature — Human Artificer,"Cid, Timeless Artificer",4,"U,W",uncommon,
+Magic: The Gathering,Circle of Power,"You draw two cards and you lose 2 life. Create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""
+Wizards you control get +1/+0 and gain lifelink until end of turn.",Sorcery,Circle of Power,,B,uncommon,
+Magic: The Gathering,Clash of the Eikons,"Choose one or more —
+• Target creature you control fights target creature an opponent controls.
+• Remove a lore counter from target Saga you control. (Removing lore counters doesn't cause chapter abilities to trigger.)
+• Put a lore counter on target Saga you control.",Sorcery,Clash of the Eikons,,G,uncommon,
+Magic: The Gathering,"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Demon,"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",,,mythic,
+Magic: The Gathering,Clive's Hideaway,"Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+{T}: Add {C}.
+{2}, {T}: You may play the exiled card without paying its mana cost if you control four or more legendary creatures.",Land — Town,Clive's Hideaway,,,rare,
+Magic: The Gathering,Cloudbound Moogle,"Flying
+When this creature enters, put a +1/+1 counter on target creature.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",Creature — Moogle,Cloudbound Moogle,2,W,common,
+Magic: The Gathering,"Cloud, Midgar Mercenary","When Cloud enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+As long as Cloud is equipped, if an ability of Cloud or an Equipment attached to it triggers, that ability triggers an additional time.",Legendary Creature — Human Soldier Mercenary,"Cloud, Midgar Mercenary",2,W,mythic,
+Magic: The Gathering,Cloud of Darkness,"Flying
+Particle Beam — When Cloud of Darkness enters, target creature an opponent controls gets -X/-X until end of turn, where X is the number of permanent cards in your graveyard.",Legendary Creature — Avatar,Cloud of Darkness,3,"B,G",uncommon,"""We are the Cloud of Darkness! Bringer of wrath and destroyer of light!"""
+Magic: The Gathering,"Cloud, Planet's Champion","During your turn, as long as Cloud is equipped, it has double strike and indestructible. (This creature deals both first-strike and regular combat damage. Damage and effects that say ""destroy"" don't destroy this creature.)
+Equip abilities you activate that target Cloud cost {2} less to activate.",Legendary Creature — Human Soldier Mercenary,"Cloud, Planet's Champion",4,"R,W",mythic,"""It's not over yet... this isn't the end!"""
+Magic: The Gathering,Coeurl,"{1}{W}, {T}: Tap target nonenchantment creature.",Creature — Cat Beast,Coeurl,2,W,common,A lean and limber predator whose whiskers acquire charge from naturally-occurring electric particles in the atmosphere.
+Magic: The Gathering,Coliseum Behemoth,"Trample
+When this creature enters, choose one —
+• Destroy target artifact or enchantment.
+• Draw a card.",Creature — Beast,Coliseum Behemoth,7,G,uncommon,
+Magic: The Gathering,Combat Tutorial,Target player draws two cards. Put a +1/+1 counter on up to one target creature you control.,Sorcery,Combat Tutorial,,U,common,"""Clueless, aren't you? Good thing I'm here.""
+—Lulu"
+Magic: The Gathering,Commune with Beavers,"Look at the top three cards of your library. You may reveal an artifact, creature, or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",Sorcery,Commune with Beavers,,G,common,"""Guy speak beaver."""
+Magic: The Gathering,Coral Sword,"Flash
+When this Equipment enters, attach it to target creature you control. That creature gains first strike until end of turn.
+Equipped creature gets +1/+0.
+Equip {1}",Artifact — Equipment,Coral Sword,,R,uncommon,
+Magic: The Gathering,Cornered by Black Mages,"Target opponent sacrifices a creature of their choice.
+Create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""",Sorcery,Cornered by Black Mages,,B,common,"""Kuja called them black mages, dark spawn of the mist.""
+—The Soulcage"
+Magic: The Gathering,Crossroads Village,"This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.",Land — Town,Crossroads Village,,,common,"""You've got to destroy the Dreadnought!""
+—Bafsk resident"
+Magic: The Gathering,Crystal Fragments // Summon: Alexander,,Artifact — Equipment // Enchantment Creature — Saga Construct,Crystal Fragments // Summon: Alexander,,,uncommon,
+Magic: The Gathering,Dark Confidant,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",Creature — Human Wizard,Dark Confidant,2,B,mythic,"""Fare you well, Bringer of Light."""
+Magic: The Gathering,Dark Knight's Greatsword,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +3/+0 and is a Knight in addition to its other types.
+Chaosbringer — Equip—Pay 3 life. Activate only once each turn.",Artifact — Equipment,Dark Knight's Greatsword,,B,uncommon,
+Magic: The Gathering,Deadly Embrace,Destroy target creature an opponent controls. Then draw a card for each creature that died this turn.,Sorcery,Deadly Embrace,,B,rare,"""Come, little lamb... to the slaughter with you!"""
+Magic: The Gathering,Delivery Moogle,"Flying
+When this creature enters, search your library and/or graveyard for an artifact card with mana value 2 or less, reveal it, and put it into your hand. If you search your library this way, shuffle.",Creature — Moogle,Delivery Moogle,3,W,uncommon,"""A new letter has arrived just for you, kupo!"""
+Magic: The Gathering,Demon Wall,"Defender
+Menace (This creature can't be blocked except by two or more creatures.)
+As long as this creature has a counter on it, it can attack as though it didn't have defender.
+{5}{B}: Put two +1/+1 counters on this creature.",Artifact Creature — Demon Wall,Demon Wall,3,B,uncommon,
+Magic: The Gathering,Diamond Weapon,"This spell costs {1} less to cast for each permanent card in your graveyard.
+Reach
+Immune — Prevent all combat damage that would be dealt to Diamond Weapon.",Legendary Artifact Creature — Elemental,Diamond Weapon,8,G,uncommon,A tutelary creature said only to appear when the planet is in grave danger.
+Magic: The Gathering,"Dion, Bahamut's Dominant // Bahamut, Warden of Light",,Legendary Creature — Human Noble Knight // Legendary Enchantment Creature — Saga Dragon,"Dion, Bahamut's Dominant // Bahamut, Warden of Light",,,rare,
+Magic: The Gathering,Dragoon's Lance,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+0 and is a Knight in addition to its other types.
+During your turn, equipped creature has flying.
+Gae Bolg — Equip {4}",Artifact — Equipment,Dragoon's Lance,,W,uncommon,
+Magic: The Gathering,Dragoon's Wyvern,"Flying
+When this creature enters, create a 1/1 colorless Hero creature token.",Creature — Drake,Dragoon's Wyvern,2,U,common,"""I heard that to become a dragoon, you had to make a pact with a living wyvern. However, thanks to the dragonslayers, there aren't that many dragons left.""
+—Ceraulian, San d'Oria citizen"
+Magic: The Gathering,Dreams of Laguna,"Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Instant,Dreams of Laguna,,U,common,"""Don't go back on your word. C'mon, go wave to her."""
+Magic: The Gathering,Dwarven Castle Guard,"When this creature dies, create a 1/1 colorless Hero creature token.",Creature — Dwarf Soldier,Dwarven Castle Guard,2,W,common,"""'Lali-ho' is the dwarven greeting!"""
+Magic: The Gathering,"Eden, Seat of the Sanctum","{T}: Add {C}.
+{5}, {T}: Mill two cards. Then you may sacrifice this land. When you do, return another target permanent card from your graveyard to your hand.",Land — Town,"Eden, Seat of the Sanctum",,,uncommon,"This city, Cocoon's capital, shares its name with its fal'Cie patron."
+Magic: The Gathering,"Edgar, King of Figaro","When Edgar enters, draw a card for each artifact you control.
+Two-Headed Coin — The first time you flip one or more coins each turn, those coins come up heads and you win those flips.",Legendary Creature — Human Artificer Noble,"Edgar, King of Figaro",4,U,rare,"""Sabin...let's settle this with the toss of a coin."""
+Magic: The Gathering,Eject,"This spell can't be countered.
+Return target nonland permanent to its owner's hand.
+Draw a card.",Instant,Eject,,U,uncommon,
+Magic: The Gathering,Elixir,"This artifact enters tapped.
+{5}, {T}, Exile this artifact: Shuffle all nonland cards from your graveyard into your library. You gain life equal to the number of cards shuffled into your library this way.",Artifact,Elixir,,,uncommon,Fully recovers HP and MP.
+Magic: The Gathering,"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",,Legendary Creature — Elder Wizard // Legendary Creature — Avatar,"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",,,mythic,
+Magic: The Gathering,Esper Origins // Summon: Esper Maduin,,Sorcery // Enchantment Creature — Saga Elemental,Esper Origins // Summon: Esper Maduin,,,rare,
+Magic: The Gathering,Ether,"{T}, Exile this artifact: Add {U}. When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",Artifact,Ether,,U,uncommon,Restores 20 MP.
+Magic: The Gathering,Evil Reawakened,Return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.,Sorcery,Evil Reawakened,,B,uncommon,"""Galuf. It's good to see you again . . . Mwa-hahahahaha!"""
+Magic: The Gathering,Excalibur II,"Whenever you gain life, put a charge counter on Excalibur II.
+Equipped creature gets +1/+1 for each charge counter on Excalibur II.
+Equip {3}",Legendary Artifact — Equipment,Excalibur II,,,rare,"The ultimate sword, used by a legendary king. It was forged in another world."
+Magic: The Gathering,"Exdeath, Void Warlock // Neo Exdeath, Dimension's End",,Legendary Creature — Spirit Warlock // Legendary Creature — Spirit Avatar,"Exdeath, Void Warlock // Neo Exdeath, Dimension's End",,,uncommon,
+Magic: The Gathering,"Fang, Fearless l'Cie","Whenever one or more cards leave your graveyard, you draw a card and you lose 1 life. This ability triggers only once each turn.
+(Melds with Vanille, Cheerful l'Cie.)",Legendary Creature — Human Warrior,"Fang, Fearless l'Cie",2,B,uncommon,"""If I don't figure out our Focus soon... Vanille's gonna be a Cieʼth. I'll tear down the sky if it'll save her."""
+Magic: The Gathering,Fate of the Sun-Cryst,"This spell costs {2} less to cast if it targets a tapped creature.
+Destroy target nonland permanent.",Instant,Fate of the Sun-Cryst,,W,common,"""You would have me destroy the Empire? Is this my duty? Is this what you want?""
+—Ashelia B'nargin Dalmasca"
+Magic: The Gathering,Fight On!,Return up to two target creature cards from your graveyard to your hand.,Instant,Fight On!,,B,common,"""Just hang in there! Someday we'll look back at these hard times and laugh."""
+Magic: The Gathering,Fire Magic,"Tiered (Choose one additional cost.)
+• Fire — {0} — Fire Magic deals 1 damage to each creature.
+• Fira — {2} — Fire Magic deals 2 damage to each creature.
+• Firaga — {5} — Fire Magic deals 3 damage to each creature.",Instant,Fire Magic,,R,uncommon,
+Magic: The Gathering,"Firion, Wild Rose Warrior","Equipped creatures you control have haste.
+Whenever a nontoken Equipment you control enters, create a token that's a copy of it, except it has ""This Equipment's equip abilities cost {2} less to activate."" Sacrifice that token at the beginning of the next upkeep.",Legendary Creature — Human Rebel Warrior,"Firion, Wild Rose Warrior",3,R,rare,
+Magic: The Gathering,Forest,({T}: Add {G}.),Basic Land — Forest,Forest,,,common,
+Magic: The Gathering,Freya Crescent,"Jump — During your turn, Freya Crescent has flying.
+{T}: Add {R}. Spend this mana only to cast an Equipment spell or activate an equip ability.",Legendary Creature — Rat Knight,Freya Crescent,1,R,uncommon,"""We live not to forget our past, but to learn from it!"""
+Magic: The Gathering,From Father to Son,"Search your library for a Vehicle card, reveal it, and put it into your hand. If this spell was cast from a graveyard, put that card onto the battlefield instead. Then shuffle.
+Flashback {4}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Sorcery,From Father to Son,,W,rare,
+Magic: The Gathering,Gaelicat,"Flying, vigilance
+As long as you control two or more artifacts, this creature gets +2/+0.",Creature — Cat,Gaelicat,1,W,common,"""That's the ticket! Now, let's get moving to North Mountain!""
+—Galuf Baldesion"
+Magic: The Gathering,Gaius van Baelsar,"When Gaius van Baelsar enters, choose one —
+• Each player sacrifices a creature token of their choice.
+• Each player sacrifices a nontoken creature of their choice.
+• Each player sacrifices an enchantment of their choice.",Legendary Creature — Human Soldier,Gaius van Baelsar,3,B,uncommon,
+Magic: The Gathering,Galuf's Final Act,"Until end of turn, target creature gets +1/+0 and gains ""When this creature dies, put a number of +1/+1 counters equal to its power on up to one target creature.""",Instant,Galuf's Final Act,,G,uncommon,"""I'll destroy you Exdeath... even if it means I have to take you into the afterlife myself!"""
+Magic: The Gathering,"Garland, Knight of Cornelia // Chaos, the Endless",,Legendary Creature — Human Knight // Legendary Creature — Demon,"Garland, Knight of Cornelia // Chaos, the Endless",,,uncommon,
+Magic: The Gathering,"Garnet, Princess of Alexandria","Lifelink
+Whenever Garnet attacks, you may remove a lore counter from each of any number of Sagas you control. Put a +1/+1 counter on Garnet for each lore counter removed this way.",Legendary Creature — Human Noble Cleric,"Garnet, Princess of Alexandria",2,"G,W",uncommon,"""Someday I will be queen, but I will always be myself."""
+Magic: The Gathering,Genji Glove,"Equipped creature has double strike.
+Whenever equipped creature attacks, if it's the first combat phase of the turn, untap it. After this phase, there is an additional combat phase.
+Equip {3}",Artifact — Equipment,Genji Glove,,,rare,"""I must say, I quite enjoy these tussles."""
+Magic: The Gathering,Gigantoad,"As long as you control seven or more lands, this creature gets +2/+2.",Creature — Frog,Gigantoad,4,G,common,The gigantoad is known to venture outside of its comfort zone during downpours—much to the surprise of unsuspecting hikers.
+Magic: The Gathering,"Gilgamesh, Master-at-Arms","Whenever Gilgamesh enters or attacks, look at the top six cards of your library. You may put any number of Equipment cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When you put one or more Equipment onto the battlefield this way, you may attach one of them to a Samurai you control.",Legendary Creature — Human Samurai,"Gilgamesh, Master-at-Arms",6,R,rare,
+Magic: The Gathering,"Giott, King of the Dwarves","Double strike
+Whenever Giott or another Dwarf you control enters and whenever an Equipment you control enters, you may discard a card. If you do, draw a card.",Legendary Creature — Dwarf Noble,"Giott, King of the Dwarves",1,"R,W",uncommon,"""We will fight along with you for the planet, our home!"""
+Magic: The Gathering,Gladiolus Amicitia,"When Gladiolus Amicitia enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Landfall — Whenever a land you control enters, another target creature you control gets +2/+2 and gains trample until end of turn.",Legendary Creature — Human Warrior,Gladiolus Amicitia,6,"G,R",uncommon,"""Guard the king with our lives—that's the way it's always been."""
+Magic: The Gathering,"Gogo, Master of Mimicry","{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0. (Mana abilities can't be targeted.)",Legendary Creature — Wizard,"Gogo, Master of Mimicry",2,U,mythic,"""I see... so, you seek to save the world. Then I guess that means I shall save the world as well. Lead on! I will copy your every move."""
+Magic: The Gathering,"Gohn, Town of Ruin","This land enters tapped.
+{T}: Add {B} or {G}.",Land — Town,"Gohn, Town of Ruin",,,common,"""They say that beyond the dunes is the Town of Ruin, but no one can even enter the desert to find out, let alone cross it.""
+—Cid Previa"
+Magic: The Gathering,"Golbez, Crystal Collector","Whenever an artifact you control enters, surveil 1.
+At the beginning of your end step, if you control four or more artifacts, return target creature card from your graveyard to your hand. Then if you control eight or more artifacts, each opponent loses life equal to that card's power.",Legendary Creature — Human Wizard,"Golbez, Crystal Collector",1,"B,U",rare,
+Magic: The Gathering,"Gongaga, Reactor Town","This land enters tapped.
+{T}: Add {R} or {G}.",Land — Town,"Gongaga, Reactor Town",,,common,"""The Shinra people told us that everyone would be happy once the reactor was built. But all it brought us was sadness...""
+—Gongaga villager"
+Magic: The Gathering,Goobbue Gardener,{T}: Add {G}.,Creature — Plant Beast,Goobbue Gardener,1,G,common,The parasitic moss that grows in the folds of the goobbue's back is highly valued as an ingredient in various potions and medicines.
+Magic: The Gathering,G'raha Tia,"Reach
+The Allagan Eye — Whenever one or more other creatures and/or artifacts you control die, draw a card. This ability triggers only once each turn.",Legendary Creature — Cat Archer,G'raha Tia,3,W,uncommon,
+Magic: The Gathering,Gran Pulse Ochu,"Deathtouch
+{8}: Until end of turn, this creature gets +1/+1 for each permanent card in your graveyard.",Creature — Plant Beast,Gran Pulse Ochu,1,G,common,"A mysterious beast that has grown large on its journey across Gran Pulse. Its children, known as microchus, accompany the ochu in combat against adventurers."
+Magic: The Gathering,"Guadosalam, Farplane Gateway","This land enters tapped.
+{T}: Add {G} or {U}.",Land — Town,"Guadosalam, Farplane Gateway",,,common,"""We Guado protect the Farplane so the dead can rest in peace.""
+—Guadosalam citizen"
+Magic: The Gathering,Gysahl Greens,"Create a 2/2 green Bird creature token with ""Whenever a land you control enters, this token gets +1/+0 until end of turn.""
+Flashback {6}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Sorcery,Gysahl Greens,,G,common,
+Magic: The Gathering,Haste Magic,Target creature gets +3/+1 and gains haste until end of turn. Exile the top card of your library. You may play it until your next end step.,Instant,Haste Magic,,R,common,"""Double time."""
+Magic: The Gathering,Hecteyes,"When this creature enters, each opponent discards a card.",Creature — Ooze Horror,Hecteyes,1,B,common,"""Once, the monsters of Hell poured forth into the world. They entered using a path known as the Jade Passage.""
+—Hilda, Princess of Fynn"
+Magic: The Gathering,Hill Gigas,"Trample, haste
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",Creature — Giant,Hill Gigas,5,R,common,"""This place is dangerous! Be careful!""
+—Zozo resident"
+Magic: The Gathering,Hope Estheim,"Lifelink
+At the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.",Legendary Creature — Human Wizard,Hope Estheim,2,"U,W",rare,"""If we have the power to destroy Cocoon, then we have the power to save it."""
+Magic: The Gathering,Ice Flan,"When this creature enters, tap target artifact or creature an opponent controls. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",Creature — Elemental Ooze,Ice Flan,5,U,common,
+Magic: The Gathering,Ice Magic,"Tiered (Choose one additional cost.)
+• Blizzard — {0} — Return target creature to its owner's hand.
+• Blizzara — {2} — Target creature's owner puts it on their choice of the top or bottom of their library.
+• Blizzaga — {5}{U} — Target creature's owner shuffles it into their library.",Instant,Ice Magic,,U,common,
+Magic: The Gathering,Ignis Scientia,"When Ignis Scientia enters, look at the top six cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+I've Come Up with a New Recipe! — {1}{G}{U}, {T}: Exile target card from a graveyard. If a creature card was exiled this way, create a Food token.",Legendary Creature — Human Advisor,Ignis Scientia,2,"G,U",uncommon,
+Magic: The Gathering,Il Mheg Pixie,"Flying
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",Creature — Faerie,Il Mheg Pixie,2,U,uncommon,"""Well now, aren't you just brimming with life? I'd love to suck up all that aether like nectar from a flower!"""
+Magic: The Gathering,"Insomnia, Crown City","This land enters tapped.
+{T}: Add {W} or {B}.",Land — Town,"Insomnia, Crown City",,,common,"""I need only know that you are ready to leave home behind,"" said King Regis.
+""Don't know about you, but I'm ready as I'll ever be,"" replied Noctis."
+Magic: The Gathering,Instant Ramen,"Flash
+When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.",Artifact — Food,Instant Ramen,,,common,"""It's not about finding the single best ingredient. It's about crafting that perfect blend of meat, egg, and shrimp. That harmony of flavors is key."""
+Magic: The Gathering,Iron Giant,"Vigilance, reach, trample",Artifact Creature — Demon,Iron Giant,6,,common,"The iron giant is both hostile and powerful, using a giant blade to fell its foes. The mere mention of its name strikes fear in the hearts of drivers who know how perilous the roads are at night."
+Magic: The Gathering,"Ishgard, the Holy See // Faith & Grief",,Land — Town // Sorcery — Adventure,"Ishgard, the Holy See // Faith & Grief",,,rare,"A great and proud nation devoted to Halone, the Fury."
+Magic: The Gathering,Island,({T}: Add {U}.),Basic Land — Island,Island,,,common,
+Magic: The Gathering,Item Shopkeep,"Whenever you attack, target attacking equipped creature gains menace until end of turn. (It can't be blocked except by two or more creatures.)",Creature — Human Citizen,Item Shopkeep,2,R,common,"""What can I do for you?"""
+Magic: The Gathering,"Jecht, Reluctant Guardian // Braska's Final Aeon",,Legendary Creature — Human Warrior // Legendary Enchantment Creature — Saga Nightmare,"Jecht, Reluctant Guardian // Braska's Final Aeon",,,rare,
+Magic: The Gathering,"Jenova, Ancient Calamity","At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.
+Whenever a Mutant you control dies during your turn, you draw cards equal to its power.",Legendary Creature — Alien,"Jenova, Ancient Calamity",1,"B,G",rare,
+Magic: The Gathering,"Jidoor, Aristocratic Capital // Overture",,Land — Town // Sorcery — Adventure,"Jidoor, Aristocratic Capital // Overture",,,rare,"""You're the spitting image of Maria!""
+—Jidoor resident"
+Magic: The Gathering,"Jill, Shiva's Dominant // Shiva, Warden of Ice",,Legendary Creature — Human Noble Warrior // Legendary Enchantment Creature — Saga Elemental,"Jill, Shiva's Dominant // Shiva, Warden of Ice",,,rare,
+Magic: The Gathering,"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",,Legendary Creature — Human Noble Wizard // Legendary Enchantment Creature — Saga Phoenix,"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",,,rare,
+Magic: The Gathering,Judge Magister Gabranth,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another creature or artifact you control dies, put a +1/+1 counter on Judge Magister Gabranth.",Legendary Creature — Human Advisor Knight,Judge Magister Gabranth,2,"B,W",uncommon,"""I slew your king. I slew your country. Do these deeds not demand vengeance?"""
+Magic: The Gathering,Judgment Bolt,"Judgment Bolt deals 5 damage to target creature and X damage to that creature's controller, where X is the number of Equipment you control.",Instant,Judgment Bolt,,R,rare,"""I'm here to even the odds. Any objections?"""
+Magic: The Gathering,Jumbo Cactuar,"10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",Creature — Plant,Jumbo Cactuar,1,G,rare,Some Cactuars live long lives and grow huge. This Jumbo Cactuar is one of them.
+Magic: The Gathering,"Kain, Traitorous Dragoon","Jump — During your turn, Kain has flying.
+Whenever Kain deals combat damage to a player, that player gains control of Kain. If they do, you draw that many cards, create that many tapped Treasure tokens, then lose that much life.",Legendary Creature — Human Knight,"Kain, Traitorous Dragoon",2,B,rare,
+Magic: The Gathering,"Kefka, Court Mage // Kefka, Ruler of Ruin",,Legendary Creature — Human Wizard // Legendary Creature — Avatar Wizard,"Kefka, Court Mage // Kefka, Ruler of Ruin",,,mythic,
+Magic: The Gathering,"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,Legendary Creature — Human Mutant Wizard // Legendary Creature — Avatar Wizard,"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",,,rare,
+Magic: The Gathering,Laughing Mad,"As an additional cost to cast this spell, discard a card.
+Draw two cards.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost and any additional costs. Then exile it.)",Instant,Laughing Mad,,R,common,
+Magic: The Gathering,"Lightning, Army of One","First strike, trample, lifelink
+Stagger — Whenever Lightning deals combat damage to a player, until your next turn, if a source would deal damage to that player or a permanent that player controls, it deals double that damage instead.",Legendary Creature — Human Soldier,"Lightning, Army of One",3,"R,W",mythic,"""Lightning. It flashes bright, then fades away. It can't protect. It only destroys."""
+Magic: The Gathering,"Lightning, Security Sergeant","Menace (This creature can't be blocked except by two or more creatures.)
+Whenever Lightning deals combat damage to a player, exile the top card of your library. You may play that card for as long as you control Lightning.",Legendary Creature — Human Soldier,"Lightning, Security Sergeant",2,R,rare,
+Magic: The Gathering,Light of Judgment,Light of Judgment deals 6 damage to target creature. Destroy up to one Equipment attached to that creature.,Instant,Light of Judgment,,R,common,"""I was there... I saw when Kefka used his Light of Judgment to torch the village of Mobliz, far to the east.""
+—Tzen resident"
+Magic: The Gathering,"Lindblum, Industrial Regency // Mage Siege",,Land — Town // Instant — Adventure,"Lindblum, Industrial Regency // Mage Siege",,,rare,A city encircled by the ramparts of a massive castle.
+Magic: The Gathering,Lion Heart,"When this Equipment enters, it deals 2 damage to any target.
+Equipped creature gets +2/+1.
+Equip {2}",Artifact — Equipment,Lion Heart,,,uncommon,"""Lions are known for their great strength and pride."""
+Magic: The Gathering,Locke Cole,"Deathtouch, lifelink
+Whenever Locke Cole deals combat damage to a player, draw a card, then discard a card.",Legendary Creature — Human Rogue,Locke Cole,2,"B,U",uncommon,"""As long as there are people who need to be protected, I'll keep on fighting!"""
+Magic: The Gathering,Loporrit Scout,"Whenever another creature you control enters, this creature gets +1/+1 until end of turn.",Creature — Rabbit Scout,Loporrit Scout,3,G,common,"""I've come to realize that it's important to put down the book every now and then, and experience some adventures for myself."""
+Magic: The Gathering,Louisoix's Sacrifice,"As an additional cost to cast this spell, sacrifice a legendary creature or pay {2}.
+Counter target activated ability, triggered ability, or noncreature spell.",Instant,Louisoix's Sacrifice,,U,rare,"""Thank you... for everything... Pray take your rest, Grandfather... You deserve it.""
+—Alisaie Leveilleur"
+Magic: The Gathering,Lunatic Pandora,"{2}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{6}, {T}, Sacrifice Lunatic Pandora: Destroy target nonland permanent.",Legendary Artifact,Lunatic Pandora,,,common,"""Inside the Lunatic Pandora is this thing called a Crystal Pillar. It calls monsters from the Moon.""
+—Zell Dincht"
+Magic: The Gathering,Machinist's Arsenal,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +2/+2 for each artifact you control and is an Artificer in addition to its other types.
+Machina — Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,Machinist's Arsenal,,W,rare,
+Magic: The Gathering,Magic Damper,Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it.,Instant,Magic Damper,,U,common,"""You're gonna wish you hadn't."""
+Magic: The Gathering,Magic Pot,"When this creature dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+{2}, {T}: Exile target card from a graveyard.",Artifact Creature — Goblin Construct,Magic Pot,1,,common,"""Gimme elixir!"""
+Magic: The Gathering,Magitek Armor,"When this Vehicle enters, create a 1/1 colorless Hero creature token.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",Artifact — Vehicle,Magitek Armor,4,W,uncommon,
+Magic: The Gathering,Magitek Infantry,"This creature gets +1/+0 as long as you control another artifact.
+{2}{W}: Search your library for a card named Magitek Infantry, put it onto the battlefield tapped, then shuffle.",Artifact Creature — Robot Soldier,Magitek Infantry,1,W,common,"These cybersoldiers were specifically engineered to excel in combat, and serve as the powerhouse of the imperial infantry."
+Magic: The Gathering,Magitek Scythe,"A Test of Your Reflexes! — When this Equipment enters, you may attach it to target creature you control. If you do, that creature gains first strike until end of turn and must be blocked this turn if able.
+Equipped creature gets +2/+1.
+Equip {2}",Artifact — Equipment,Magitek Scythe,,,rare,
+Magic: The Gathering,Malboro,"Bad Breath — When this creature enters, each opponent discards a card, loses 2 life, and exiles the top three cards of their library.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",Creature — Plant Horror,Malboro,4,B,common,
+Magic: The Gathering,"Matoya, Archon Elder","Whenever you scry or surveil, draw a card. (Draw after you scry or surveil.)",Legendary Creature — Human Warlock,"Matoya, Archon Elder",1,U,rare,"""Don't you know it's rude to enter without knocking? Hmph, the youth of today..."""
+Magic: The Gathering,Memories Returning,"Reveal the top five cards of your library. Put one of them into your hand. Then choose an opponent. They put one on the bottom of your library. Then you put one into your hand. Then they put one on the bottom of your library. Put the other into your hand.
+Flashback {7}{U}{U}",Sorcery,Memories Returning,,U,rare,
+Magic: The Gathering,"Midgar, City of Mako // Reactor Raid",,Land — Town // Sorcery — Adventure,"Midgar, City of Mako // Reactor Raid",,,rare,A triumph of technology and testament to man's potential.
+Magic: The Gathering,"Minwu, White Mage","Vigilance, lifelink
+Whenever you gain life, put a +1/+1 counter on each Cleric you control.",Legendary Creature — Human Cleric,"Minwu, White Mage",3,W,rare,"""I shall remain here and devote myself to the care of the wounded."""
+Magic: The Gathering,Monk's Fist,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +1/+0 and is a Monk in addition to its other types.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,Monk's Fist,,,common,
+Magic: The Gathering,Moogles' Valor,"For each creature you control, create a 1/2 white Moogle creature token with lifelink. Then creatures you control gain indestructible until end of turn.",Instant,Moogles' Valor,,W,rare,"""Thanks, moogles! We're in your debt!""
+—Locke Cole"
+Magic: The Gathering,Mountain,({T}: Add {R}.),Basic Land — Mountain,Mountain,,,common,
+Magic: The Gathering,Mysidian Elder,"When this creature enters, create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""",Creature — Human Wizard,Mysidian Elder,1,R,common,"""Perhaps this is a test and you must prove yourself worthy."""
+Magic: The Gathering,Namazu Trader,"When this creature enters, you lose 1 life and create a Treasure token.
+Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",Creature — Fish Citizen,Namazu Trader,3,B,common,
+Magic: The Gathering,Nibelheim Aflame,"Choose target creature you control. It deals damage equal to its power to each other creature. If this spell was cast from a graveyard, discard your hand and draw four cards.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Sorcery,Nibelheim Aflame,,R,mythic,
+Magic: The Gathering,Ninja's Blades,"Job select
+Equipped creature gets +1/+1, is a Ninja in addition to its other types, and has ""Whenever this creature deals combat damage to a player, draw a card, then discard a card. That player loses life equal to the discarded card's mana value.""
+Mutsunokami — Equip {2}",Artifact — Equipment,Ninja's Blades,,B,rare,
+Magic: The Gathering,"Noctis, Prince of Lucis","Lifelink
+You may cast artifact spells from your graveyard by paying 3 life in addition to paying their other costs. If you cast a spell this way, that artifact enters with a finality counter on it.",Legendary Creature — Human Noble,"Noctis, Prince of Lucis",4,"B,U,W",rare,Many sacrificed all for the King; so must the King sacrifice himself for all.
+Magic: The Gathering,"Omega, Heartless Evolution","Wave Cannon — When Omega enters, for each opponent, tap up to one target nonland permanent that opponent controls. Put X stun counters on each of those permanents and you gain X life, where X is the number of nonbasic lands you control. (If a permanent with a stun counter would become untapped, remove one from it instead.)",Legendary Artifact Creature — Robot,"Omega, Heartless Evolution",8,"G,U",uncommon,
+Magic: The Gathering,Opera Love Song,"Choose one —
+• Exile the top two cards of your library. You may play those cards until your next end step.
+• One or two target creatures each get +2/+0 until end of turn.",Instant,Opera Love Song,,R,uncommon,"""O my hero, my beloved, shall we still be made to part?"""
+Magic: The Gathering,Overkill,Target creature gets -0/-9999 until end of turn.,Instant,Overkill,,B,uncommon,"""Hey why don't ya try out that sword I gave you!""
+—Wakka"
+Magic: The Gathering,Paladin's Arms,"Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
+Equipped creature gets +2/+1, has ward {1}, and is a Knight in addition to its other types.
+Lightbringer and Hero's Shield — Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",Artifact — Equipment,Paladin's Arms,,W,common,
+Magic: The Gathering,Phantom Train,"Trample
+Sacrifice another artifact or creature: Put a +1/+1 counter on this Vehicle. It becomes a Spirit artifact creature in addition to its other types until end of turn.",Artifact — Vehicle,Phantom Train,4,B,uncommon,
+Magic: The Gathering,Phoenix Down,"{1}{W}, {T}, Exile this artifact: Choose one —
+• Return target creature card with mana value 4 or less from your graveyard to the battlefield tapped.
+• Exile target Skeleton, Spirit, or Zombie.",Artifact,Phoenix Down,,W,uncommon,A feather with the power to revive those who have exhausted their strength.
+Magic: The Gathering,Plains,({T}: Add {W}.),Basic Land — Plains,Plains,,,common,
+Magic: The Gathering,Poison the Waters,"Choose one —
+• All creatures get -1/-1 until end of turn.
+• Target player reveals their hand. You choose an artifact or creature card from it. That player discards that card.",Sorcery,Poison the Waters,,B,uncommon,"""Hee-hee... Nothing beats the sweet music of hundreds of voices screaming in unison! Uwee-hee-hee!"""
+Magic: The Gathering,Prishe's Wanderings,"Search your library for a basic land card or Town card, put it onto the battlefield tapped, then shuffle. When you search your library this way, put a +1/+1 counter on target creature you control.",Instant,Prishe's Wanderings,,G,common,"""There's only one reason. They smell an adventure! C'mon! We've got no time to lose!"""
+Magic: The Gathering,Prompto Argentum,"Haste
+Selfie Shot — Whenever you cast a noncreature spell, if at least four mana was spent to cast it, create a Treasure token.",Legendary Creature — Human Scout,Prompto Argentum,2,R,uncommon,"""Look out world, here we come!"""
+Magic: The Gathering,PuPu UFO,"Flying
+{T}: You may put a land card from your hand onto the battlefield.
+{3}: Until end of turn, this creature's base power becomes equal to the number of Towns you control.",Artifact Creature — Construct Alien,PuPu UFO,0,,uncommon,"""Thank you!"""
+Magic: The Gathering,Qiqirn Merchant,"{1}, {T}: Draw a card, then discard a card.
+{7}, {T}, Sacrifice this creature: Draw three cards. This ability costs {1} less to activate for each Town you control.",Creature — Beast Citizen,Qiqirn Merchant,1,U,common,"Small Beastmen that live alongside humans in the Aht Urhgan Empire. Their ancestors were nomads in the north, and their unique culture and customs can be seen even now."
+Magic: The Gathering,Queen Brahne,"Prowess
+Whenever Queen Brahne attacks, create a 0/1 black Wizard creature token with ""Whenever you cast a noncreature spell, this token deals 1 damage to each opponent.""",Legendary Creature — Human Noble,Queen Brahne,2,R,uncommon,
+Magic: The Gathering,"Quina, Qu Gourmet","If one or more tokens would be created under your control, those tokens plus a 1/1 green Frog creature token are created instead.
+{2}, Sacrifice a Frog: Put a +1/+1 counter on Quina.",Legendary Creature — Qu,"Quina, Qu Gourmet",2,G,uncommon,"""World only have two things: Things you can eat and things you no can eat."""
+Magic: The Gathering,Quistis Trepe,"Blue Magic — When Quistis Trepe enters, you may cast target instant or sorcery card from a graveyard, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.",Legendary Creature — Human Wizard,Quistis Trepe,2,U,uncommon,"""It's not like everyone can get by on their own, you know?"""
+Magic: The Gathering,Abzan Devotee,"{1}: Add {W}, {B}, or {G}. Activate only once each turn.
+{2}{B}: Return this card from your graveyard to your hand.",Creature — Dog Cleric,Abzan Devotee,2,B,common,The Kin-Trees rediscovered after Dromoka's fall are tended by carefully chosen wardens.
+Magic: The Gathering,Abzan Monument,"When this artifact enters, search your library for a basic Plains, Swamp, or Forest card, reveal it, put it into your hand, then shuffle.
+{1}{W}{B}{G}, {T}, Sacrifice this artifact: Create an X/X white Spirit creature token, where X is the greatest toughness among creatures you control. Activate only as a sorcery.",Artifact,Abzan Monument,,,uncommon,
+Magic: The Gathering,Adorned Crocodile,"When this creature dies, create a 2/2 black Zombie Druid creature token.
+Renew — {B}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.",Creature — Crocodile,Adorned Crocodile,5,B,common,"""Eat you? Of course she won't. Pherah's got better taste than that.""
+—Visk, Qarsi Palace caretaker"
+Magic: The Gathering,Aegis Sculptor,"Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+At the beginning of your upkeep, you may exile two cards from your graveyard. If you do, put a +1/+1 counter on this creature.",Creature — Bird Wizard,Aegis Sculptor,2,U,uncommon,
+Magic: The Gathering,Agent of Kotis,"Renew — {3}{U}, Exile this card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery.",Creature — Human Rogue,Agent of Kotis,2,U,common,"""I trust Narset. I do not trust those she keeps counsel with.""
+—Kotis, the Fangkeeper"
+Magic: The Gathering,Aggressive Negotiations,Target opponent reveals their hand. You choose a nonland card from it and exile that card. Put a +1/+1 counter on up to one target creature you control.,Sorcery,Aggressive Negotiations,,B,common,"""When an alliance outlasts its usefulness it's best to end it quickly.""
+—Heng, Sultai ambassador"
+Magic: The Gathering,Ainok Wayfarer,"When this creature enters, mill three cards. You may put a land card from among them into your hand. If you don't, put a +1/+1 counter on this creature. (To mill three cards, put the top three cards of your library into your graveyard.)",Creature — Dog Scout,Ainok Wayfarer,1,G,common,"""There has to be a faster route through Sagu Jungle. Give me a week."""
+Magic: The Gathering,Alchemist's Assistant,"Lifelink
+Renew — {1}{B}, Exile this card from your graveyard: Put a lifelink counter on target creature. Activate only as a sorcery.",Creature — Monkey,Alchemist's Assistant,2,B,uncommon,"""Do not test the mandrill. He knows a thief when he sees one.""
+—Notice posted at Lu Fen's apothecary"
+Magic: The Gathering,Alesha's Legacy,"Target creature you control gains deathtouch and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",Instant,Alesha's Legacy,,B,common,"""If I die today, I will ensure my death is worthy of legend."""
+Magic: The Gathering,All-Out Assault,"Creatures you control get +1/+1 and have deathtouch.
+When this enchantment enters, if it's your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control.",Enchantment,All-Out Assault,,"B,R,W",mythic,
+Magic: The Gathering,Ambling Stormshell,"Ward {2}
+Whenever this creature attacks, put three stun counters on it and draw three cards. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Whenever you cast a Turtle spell, untap this creature.",Creature — Turtle,Ambling Stormshell,5,U,rare,
+Magic: The Gathering,"Anafenza, Unyielding Lineage","Flash
+First strike
+Whenever another nontoken creature you control dies, Anafenza endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",Legendary Creature — Spirit Soldier,"Anafenza, Unyielding Lineage",2,W,rare,"""Kin and clan call to me—and I will always answer."""
+Magic: The Gathering,Arashin Sunshield,"When this creature enters, exile up to two target cards from a single graveyard.
+{W}, {T}: Tap target creature.",Creature — Human Warrior,Arashin Sunshield,3,W,common,"""The best way to protect the citizens is to defend Arashin, not hunt dragonstorms across Tarkir.""
+—Sadesh of House Mevak"
+Magic: The Gathering,Armament Dragon,"Flying
+When this creature enters, distribute three +1/+1 counters among one, two, or three target creatures you control.",Creature — Dragon,Armament Dragon,3,"B,G,W",uncommon,"""Dragons working alongside the Abzan, not as overlords but as equals. It feels like a dream.""
+—Anafenza"
+Magic: The Gathering,Attuned Hunter,"Trample
+Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature.",Creature — Human Ranger,Attuned Hunter,3,G,uncommon,"""Sokran is no mere bear. She is friend, family, and confidante—and more intelligent than some of my blood relatives."""
+Magic: The Gathering,Auroral Procession,Return target card from your graveyard to your hand.,Instant,Auroral Procession,,"G,U",uncommon,"The Temur celebrate the end of the Unbroken Night with stories, dances, and feasts. They gather to witness the first light of dawn as the land sings in harmony."
+Magic: The Gathering,Avenger of the Fallen,"Deathtouch
+Mobilize X, where X is the number of creature cards in your graveyard. (Whenever this creature attacks, create X tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",Creature — Human Warrior,Avenger of the Fallen,2,B,rare,
+Magic: The Gathering,Awaken the Honored Dead,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target nonland permanent.
+II — Mill three cards.
+III — You may discard a card. When you do, return target creature or land card from your graveyard to your hand.",Enchantment — Saga,Awaken the Honored Dead,,"B,G,U",rare,
+Magic: The Gathering,Barrensteppe Siege,"As this enchantment enters, choose Abzan or Mardu.
+• Abzan — At the beginning of your end step, put a +1/+1 counter on each creature you control.
+• Mardu — At the beginning of your end step, if a creature died under your control this turn, each opponent sacrifices a creature of their choice.",Enchantment,Barrensteppe Siege,,"B,W",rare,
+Magic: The Gathering,Bearer of Glory,"During your turn, this creature has first strike.
+{4}{W}: Creatures you control get +1/+1 until end of turn.",Creature — Human Soldier,Bearer of Glory,2,W,common,Morale stands so long as he does.
+Magic: The Gathering,"Betor, Kin to All","Flying
+At the beginning of your end step, if creatures you control have total toughness 10 or greater, draw a card. Then if creatures you control have total toughness 20 or greater, untap each creature you control. Then if creatures you control have total toughness 40 or greater, each opponent loses half their life, rounded up.",Legendary Creature — Spirit Dragon,"Betor, Kin to All",5,"B,G,W",mythic,
+Magic: The Gathering,Bewildering Blizzard,Draw three cards. Creatures your opponents control get -3/-0 until end of turn.,Instant,Bewildering Blizzard,,U,uncommon,"Temur scouts reported the arrival of unwanted visitors, and the whisperers ensured a chilling welcome."
+Magic: The Gathering,Bloodfell Caves,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.",Land,Bloodfell Caves,,,common,"""These caves hide beasts above and below their waters. For safe passage, the Sultai agree a small cargo trade is fair for risking our necks.""
+—Samor, Mardu border guard"
+Magic: The Gathering,Bloomvine Regent // Claim Territory,,Creature — Dragon // Sorcery — Omen,Bloomvine Regent // Claim Territory,4,G,rare,
+Magic: The Gathering,Blossoming Sands,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.",Land,Blossoming Sands,,,common,"""It's rare to see Temur so far from their own lands. I see no reason to interfere, but keep an eye on them nonetheless.""
+—Hamza of House Fenzala"
+Magic: The Gathering,Bone-Cairn Butcher,"Mobilize 2 (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)
+Attacking tokens you control have deathtouch.",Creature — Demon,Bone-Cairn Butcher,4,"B,R,W",uncommon,"In power, in hunger, in cruelty—insatiable."
+Magic: The Gathering,Boulderborn Dragon,"Flying, vigilance
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",Artifact Creature — Dragon,Boulderborn Dragon,3,,common,"The draconic power that flowed out from the dragonstorms imbued the landscape with draconic features—scales, claws, and appetites."
+Magic: The Gathering,Breaching Dragonstorm,"When this enchantment enters, exile cards from the top of your library until you exile a nonland card. You may cast it without paying its mana cost if that spell's mana value is 8 or less. If you don't, put that card into your hand.
+When a Dragon you control enters, return this enchantment to its owner's hand.",Enchantment,Breaching Dragonstorm,,R,uncommon,
+Magic: The Gathering,Call the Spirit Dragons,"Dragons you control have indestructible.
+At the beginning of your upkeep, for each color, put a +1/+1 counter on a Dragon you control of that color. If you put +1/+1 counters on five Dragons this way, you win the game.",Enchantment,Call the Spirit Dragons,,"B,G,R,U,W",mythic,The essence of Tarkir was shaped into draconic embodiments of the re-formed clans.
+Magic: The Gathering,Caustic Exhale,"As an additional cost to cast this spell, behold a Dragon or pay {1}. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Target creature gets -3/-3 until end of turn.",Instant,Caustic Exhale,,B,common,
+Magic: The Gathering,Champion of Dusan,"Trample
+Renew — {1}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a trample counter on target creature. Activate only as a sorcery.",Creature — Human Warrior,Champion of Dusan,4,G,common,"Dusan boxing matches allow contestants no weapons, no allies, and no excuses."
+Magic: The Gathering,Channeled Dragonfire,"Channeled Dragonfire deals 2 damage to any target.
+Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)",Sorcery,Channeled Dragonfire,,R,uncommon,
+Magic: The Gathering,Clarion Conqueror,"Flying
+Activated abilities of artifacts, creatures, and planeswalkers can't be activated.",Creature — Dragon,Clarion Conqueror,3,W,rare,All challengers were summarily silenced.
+Magic: The Gathering,Constrictor Sage,"When this creature enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Renew — {2}{U}, Exile this card from your graveyard: Tap target creature an opponent controls and put a stun counter on it. Activate only as a sorcery.",Creature — Snake Wizard,Constrictor Sage,4,U,uncommon,
+Magic: The Gathering,Coordinated Maneuver,"Choose one —
+• Coordinated Maneuver deals damage equal to the number of creatures you control to target creature or planeswalker.
+• Destroy target enchantment.",Instant,Coordinated Maneuver,,W,common,"""We follow the dragonstorms, and we take down any threats that emerge from them!""
+—Zurgo, khan of the Mardu"
+Magic: The Gathering,Cori Mountain Monastery,"This land enters tapped unless you control a Plains or an Island.
+{T}: Add {R}.
+{3}{R}, {T}: Exile the top card of your library. Until the end of your next turn, you may play that card.",Land,Cori Mountain Monastery,,,rare,Every spire is a physical dedication to the Way.
+Magic: The Gathering,Cori Mountain Stalwart,"Flurry — Whenever you cast your second spell each turn, this creature deals 2 damage to each opponent and you gain 2 life.",Creature — Human Monk,Cori Mountain Stalwart,3,"R,W",uncommon,"Zhao had resolved to hold the bridge, defending the village behind him. But the villagers decided Zhao would not stand alone."
+Magic: The Gathering,Cori-Steel Cutter,"Equipped creature gets +1/+1 and has trample and haste.
+Flurry — Whenever you cast your second spell each turn, create a 1/1 white Monk creature token with prowess. You may attach this Equipment to it. (Whenever you cast a noncreature spell, the token gets +1/+1 until end of turn.)
+Equip {1}{R}",Artifact — Equipment,Cori-Steel Cutter,,R,rare,
+Magic: The Gathering,Corroding Dragonstorm,"When this enchantment enters, each opponent loses 2 life and you gain 2 life. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+When a Dragon you control enters, return this enchantment to its owner's hand.",Enchantment,Corroding Dragonstorm,,B,uncommon,
+Magic: The Gathering,Craterhoof Behemoth,"Haste
+When this creature enters, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",Creature — Beast,Craterhoof Behemoth,5,G,mythic,"""Some days, you wish you were fighting a dragon.""
+—Eshki Dragonclaw"
+Magic: The Gathering,Cruel Truths,"Surveil 2, then draw two cards. You lose 2 life. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",Instant,Cruel Truths,,B,common,"""Who are you to defy me? In my time, the sibsig knew their place.""
+—Sidisi, to Nishang"
+Magic: The Gathering,Dalkovan Encampment,"This land enters tapped unless you control a Swamp or a Mountain.
+{T}: Add {W}.
+{2}{W}, {T}: Whenever you attack this turn, create two 1/1 red Warrior creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.",Land,Dalkovan Encampment,,,rare,
+Magic: The Gathering,Dalkovan Packbeasts,"Vigilance
+Mobilize 3 (Whenever this creature attacks, create three tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)",Creature — Ox,Dalkovan Packbeasts,0,W,uncommon,"A burden shared is a burden lightened.
+—Mardu proverb"
+Magic: The Gathering,Death Begets Life,Destroy all creatures and enchantments. Draw a card for each permanent destroyed this way.,Sorcery,Death Begets Life,,"B,G,U",mythic,"""You need not mourn. Their life essence has returned to the earth, where it will eventually bloom into a new form.""
+—Kotis, the Fangkeeper"
+Magic: The Gathering,Defibrillating Current,Defibrillating Current deals 4 damage to target creature or planeswalker and you gain 2 life.,Sorcery,Defibrillating Current,,"B,R,W",uncommon,"A small shock to save a life, a large one to take it away.
+—Mardu healer's adage"
+Magic: The Gathering,Delta Bloodflies,"Flying
+Whenever this creature attacks, if you control a creature with a counter on it, each opponent loses 1 life.",Creature — Insect,Delta Bloodflies,1,B,common,"With the rising waters, bloodflies were found far from their usual swamps."
+Magic: The Gathering,Descendant of Storms,"Whenever this creature attacks, you may pay {1}{W}. If you do, it endures 1. (Put a +1/+1 counter on it or create a 1/1 white Spirit creature token.)",Creature — Human Soldier,Descendant of Storms,2,W,uncommon,The most elite of the Abzan are selected to join the Yathan: a prestigious group acting outside khan supervision for the good of the clan.
+Magic: The Gathering,Desperate Measures,"Target creature gets +1/-1 until end of turn. When it dies under your control this turn, draw two cards.",Instant,Desperate Measures,,B,uncommon,"""Sing for us when we depart for battle, and sing for us if we fail to return.""
+—Mardu parting"
+Magic: The Gathering,Devoted Duelist,"Haste
+Flurry — Whenever you cast your second spell each turn, this creature deals 1 damage to each opponent.",Creature — Goblin Monk,Devoted Duelist,2,R,common,"""Arrows? Ha! Wood and feather? Toys!"""
+Magic: The Gathering,Dirgur Island Dragon // Skimming Strike,,Creature — Dragon // Instant — Omen,Dirgur Island Dragon // Skimming Strike,4,U,common,
+Magic: The Gathering,Dismal Backwater,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.",Land,Dismal Backwater,,,common,"""I ask only that the winds return you to me as swiftly as they bear you and the Storm Crane away.""
+—Samthar, Sultai merchant, to Jialing, Jeskai monk"
+Magic: The Gathering,Dispelling Exhale,"As an additional cost to cast this spell, you may behold a Dragon. (You may choose a Dragon you control or reveal a Dragon card from your hand.)
+Counter target spell unless its controller pays {2}. If a Dragon was beheld, counter that spell unless its controller pays {4} instead.",Instant,Dispelling Exhale,,U,common,
+Magic: The Gathering,Disruptive Stormbrood // Petty Revenge,,Creature — Dragon // Sorcery — Omen,Disruptive Stormbrood // Petty Revenge,3,G,uncommon,
+Magic: The Gathering,Dracogenesis,You may cast Dragon spells without paying their mana costs.,Enchantment,Dracogenesis,,R,mythic,"""Let the dragonstorms rage. Let what seeks sustenance feed. Let Tarkir be what it was always meant to be.""
+—Sarkhan"
+Magic: The Gathering,Dragonback Assault,"When this enchantment enters, it deals 3 damage to each creature and each planeswalker.
+Landfall — Whenever a land you control enters, create a 4/4 red Dragon creature token with flying.",Enchantment,Dragonback Assault,,"G,R,U",mythic,
+Magic: The Gathering,Dragonback Lancer,"Flying
+Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)",Creature — Human Soldier,Dragonback Lancer,3,W,common,The Mardu's standing army need not always stand on the ground.
+Magic: The Gathering,Dragonbroods' Relic,"{T}, Tap an untapped creature you control: Add one mana of any color.
+{3}{W}{U}{B}{R}{G}, Sacrifice this artifact: Create a 4/4 Dragon creature token named Reliquary Dragon that's all colors. It has flying, lifelink, and ""When this token enters, it deals 3 damage to any target."" Activate only as a sorcery.",Artifact,Dragonbroods' Relic,,G,uncommon,
+Magic: The Gathering,Dragonclaw Strike,Double the power and toughness of target creature you control until end of turn. Then it fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.),Sorcery,Dragonclaw Strike,,"G,R,U",uncommon,Some had doubted the whisperers' choice of Eshki for Dragonclaw. None did so after witnessing her in battle.
+Magic: The Gathering,Dragonfire Blade,"Equipped creature gets +2/+2 and has hexproof from monocolored.
+Equip {4}. This ability costs {1} less to activate for each color of the creature it targets.",Artifact — Equipment,Dragonfire Blade,,,rare,It's as if the metal itself rages.
+Magic: The Gathering,Dragonologist,"When this creature enters, look at the top six cards of your library. You may reveal an instant, sorcery, or Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Untapped Dragons you control have hexproof.",Creature — Human Wizard,Dragonologist,1,U,rare,
+Magic: The Gathering,Dragon Sniper,"Vigilance, reach, deathtouch",Creature — Human Archer,Dragon Sniper,1,G,uncommon,"During Dromoka's reign, Qatros Karst City was a haven for the Abzan rebellion. Its current residents have not lost their proficiency against their former foes."
+Magic: The Gathering,Dragon's Prey,"This spell costs {2} more to cast if it targets a Dragon.
+Destroy target creature.",Instant,Dragon's Prey,,B,common,"""To escape Teval's justice, one must have a better plan than 'run away.'""
+—Kotis, the Fangkeeper"
+Magic: The Gathering,Dragonstorm Forecaster,"{2}, {T}: Search your library for a card named Dragonstorm Globe or Boulderborn Dragon, reveal it, put it into your hand, then shuffle.",Creature — Human Scout,Dragonstorm Forecaster,0,U,uncommon,"""This can't be right. I should cross-reference with the archives immediately."""
+Magic: The Gathering,Dragonstorm Globe,"Each Dragon you control enters with an additional +1/+1 counter on it.
+{T}: Add one mana of any color.",Artifact,Dragonstorm Globe,,,common,Jeskai scholars fashioned devices to forecast the behavior of the dragonstorms.
+Magic: The Gathering,Dusyut Earthcarver,"Reach
+When this creature enters, it endures 3. (Put three +1/+1 counters on it or create a 3/3 white Spirit creature token.)",Creature — Elephant Druid,Dusyut Earthcarver,4,G,common,"Created by a sudden sinking, Dusyut Forest attracts earthcarvers eager to explore its mysteries and test their magic."
+Magic: The Gathering,Duty Beyond Death,"As an additional cost to cast this spell, sacrifice a creature.
+Creatures you control gain indestructible until end of turn. Put a +1/+1 counter on each creature you control. (Damage and effects that say ""destroy"" don't destroy those creatures.)",Instant,Duty Beyond Death,,W,uncommon,
+Magic: The Gathering,Effortless Master,"Vigilance
+Menace (This creature can't be blocked except by two or more creatures.)
+This creature enters with two +1/+1 counters on it if you've cast two or more spells this turn.",Creature — Orc Monk,Effortless Master,4,"R,U",uncommon,
+Magic: The Gathering,"Elspeth, Storm Slayer","If one or more tokens would be created under your control, twice that many of those tokens are created instead.
++1: Create a 1/1 white Soldier creature token.
+0: Put a +1/+1 counter on each creature you control. Those creatures gain flying until your next turn.
+−3: Destroy target creature an opponent controls with mana value 3 or greater.",Legendary Planeswalker — Elspeth,"Elspeth, Storm Slayer",,W,mythic,
+Magic: The Gathering,Embermouth Sentinel,"When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top. If you control a Dragon, put that card onto the battlefield tapped instead.",Artifact Creature — Chimera,Embermouth Sentinel,2,,common,Its eternal glow lights the way for weary travelers through the misty heights surrounding Pearl Lake.
+Magic: The Gathering,Encroaching Dragonstorm,"When this enchantment enters, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+When a Dragon you control enters, return this enchantment to its owner's hand.",Enchantment,Encroaching Dragonstorm,,G,uncommon,
+Magic: The Gathering,Equilibrium Adept,"When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+Flurry — Whenever you cast your second spell each turn, this creature gains double strike until end of turn.",Creature — Dog Monk,Equilibrium Adept,2,R,uncommon,He regained balance while his opponent regained consciousness.
+Magic: The Gathering,Eshki Dragonclaw,"Vigilance, trample, ward {1}
+At the beginning of combat on your turn, if you've cast both a creature spell and a noncreature spell this turn, draw a card and put two +1/+1 counters on Eshki Dragonclaw.",Legendary Creature — Human Warrior,Eshki Dragonclaw,4,"G,R,U",rare,"""The Twice Whisperer heals. The Dragonclaw protects. Together, we will rebuild the Temur."""
+Magic: The Gathering,Essence Anchor,"At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Create a 2/2 black Zombie Druid creature token. Activate only during your turn and only if a card left your graveyard this turn.",Artifact,Essence Anchor,,U,uncommon,
+Magic: The Gathering,Evolving Wilds,"{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",Land,Evolving Wilds,,,common,Dragonstorm chasers are not deterred by danger—they claim there is nothing like witnessing the land embracing the power of a storm.
+Magic: The Gathering,Fangkeeper's Familiar,"Flash
+When this creature enters, choose one —
+• You gain 3 life and surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+• Destroy target enchantment.
+• Counter target creature spell.",Creature — Snake,Fangkeeper's Familiar,3,"B,G,U",rare,
+Magic: The Gathering,"Felothar, Dawn of the Abzan","Trample
+Whenever Felothar enters or attacks, you may sacrifice a nonland permanent. When you do, put a +1/+1 counter on each creature you control.",Legendary Creature — Human Warrior,"Felothar, Dawn of the Abzan",3,"B,G,W",rare,"""Through perennation, we stand together, families—ancestor and kin─united as one clan! Abzan!"""
+Magic: The Gathering,Feral Deathgorger // Dusk Sight,,Creature — Dragon // Sorcery — Omen,Feral Deathgorger // Dusk Sight,3,B,common,
+Magic: The Gathering,Fire-Rim Form,"Flash
+Enchant creature
+When this Aura enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0.",Enchantment — Aura,Fire-Rim Form,,R,common,
+Magic: The Gathering,Flamehold Grappler,"First strike
+When this creature enters, copy the next spell you cast this turn when you cast it. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",Creature — Human Monk,Flamehold Grappler,3,"R,U,W",rare,"""A flurry of fists doesn't impress you? Perhaps if they're on fire?"""
+Magic: The Gathering,Fleeting Effigy,"Haste
+At the beginning of your end step, return this creature to its owner's hand. (Return it only if it's on the battlefield.)
+{2}{R}: This creature gets +2/+0 until end of turn.",Creature — Elemental,Fleeting Effigy,2,R,uncommon,The brushfires of Cori Mountain take on a life all their own.
+Magic: The Gathering,Focus the Mind,"This spell costs {2} less to cast if you've cast another spell this turn.
+Draw three cards, then discard a card.",Instant,Focus the Mind,,U,common,Asham discovered it was impossible to learn if he thought he already knew everything.
+Magic: The Gathering,Forest,({T}: Add {G}.),Basic Land — Forest,Forest,,,common,
+Magic: The Gathering,Formation Breaker,"Creatures with power less than this creature's power can't block it.
+As long as you control a creature with a counter on it, this creature gets +1/+2.",Creature — Beast,Formation Breaker,2,G,uncommon,"""The war chargers seem restless. Let them out to play.""
+—Ermaz, Abzan border guard"
+Magic: The Gathering,Fortress Kin-Guard,"When this creature enters, it endures 1. (Put a +1/+1 counter on it or create a 1/1 white Spirit creature token.)",Creature — Dog Soldier,Fortress Kin-Guard,1,W,common,"All through the night, the ancestor whispered of ancient battles fought from this very rampart atop Arashin City."
+Magic: The Gathering,Fresh Start,"Flash
+Enchant creature
+Enchanted creature gets -5/-0 and loses all abilities.",Enchantment — Aura,Fresh Start,,U,uncommon,"""I know leaving your old life was no easy choice. Welcome, Novice Sardul.""
+—Elsha"
+Magic: The Gathering,Frontier Bivouac,"This land enters tapped.
+{T}: Add {G}, {U}, or {R}.",Land,Frontier Bivouac,,,uncommon,"With a warm fire and a fresh catch, Temur hunters find respite in even the coldest climates."
+Magic: The Gathering,Frontline Rush,"Choose one —
+• Create two 1/1 red Goblin creature tokens.
+• Target creature gets +X/+X until end of turn, where X is the number of creatures you control.",Instant,Frontline Rush,,"R,W",uncommon,
+Magic: The Gathering,Frostcliff Siege,"As this enchantment enters, choose Jeskai or Temur.
+• Jeskai — Whenever one or more creatures you control deal combat damage to a player, draw a card.
+• Temur — Creatures you control get +1/+0 and have trample and haste.",Enchantment,Frostcliff Siege,,"R,U",rare,Differing philosophies were debated by bloodshed.
+Magic: The Gathering,Furious Forebear,"Whenever a creature you control dies while this card is in your graveyard, you may pay {1}{W}. If you do, return this card from your graveyard to your hand.",Creature — Spirit Warrior,Furious Forebear,3,W,uncommon,"""Your hatred dampens the land with my kin's blood. My love will flood it with yours.""
+—Hazena, spirit of House Emesh"
+Magic: The Gathering,Glacial Dragonhunt,"Draw a card, then you may discard a card. When you discard a nonland card this way, Glacial Dragonhunt deals 3 damage to target creature.
+Harmonize {4}{U}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)",Sorcery,Glacial Dragonhunt,,"R,U",uncommon,
+Magic: The Gathering,Glacierwood Siege,"As this enchantment enters, choose Temur or Sultai.
+• Temur — Whenever you cast an instant or sorcery spell, target player mills four cards.
+• Sultai — You may play lands from your graveyard.",Enchantment,Glacierwood Siege,,"G,U",rare,The Sultai approach was silent. The Temur response was deafening.
+Magic: The Gathering,Great Arashin City,"This land enters tapped unless you control a Forest or a Plains.
+{T}: Add {B}.
+{1}{B}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token.",Land,Great Arashin City,,,rare,
+Magic: The Gathering,Gurmag Nightwatch,"When this creature enters, look at the top three cards of your library. You may put one of those cards back on top of your library. Put the rest into your graveyard.",Creature — Human Ranger,Gurmag Nightwatch,3,"B,G,U",common,"""The fishers were probably exaggerating the size of the crocodile they spotted, but maybe they weren't. Let's check it out."""
+Magic: The Gathering,Gurmag Rakshasa,"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, target creature an opponent controls gets -2/-2 until end of turn and target creature you control gets +2/+2 until end of turn.",Creature — Demon,Gurmag Rakshasa,5,B,uncommon,"""It's a pity to hoard life essence in a form so weak. Give it to me."""
+Magic: The Gathering,Hardened Tactician,"{1}, Sacrifice a token: Draw a card.",Creature — Human Warrior,Hardened Tactician,2,"B,W",uncommon,"""Life is full of tough calls. We honor the dead today to make better decisions tomorrow.""
+—Uruna, Mardu lieutenant"
+Magic: The Gathering,Herd Heirloom,"{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+{T}: Until end of turn, target creature you control with power 4 or greater gains trample and ""Whenever this creature deals combat damage to a player, draw a card.""",Artifact,Herd Heirloom,,G,rare,
+Magic: The Gathering,Heritage Reclamation,"Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile up to one target card from a graveyard. Draw a card.",Instant,Heritage Reclamation,,G,common,"With an echoing crash the effigy fell, the symbol of Atarka's tyranny expunged from Temur lands."
+Magic: The Gathering,Highspire Bell-Ringer,"Flying
+The second spell you cast each turn costs {1} less to cast.",Creature — Djinn Monk,Highspire Bell-Ringer,1,U,common,"The sequence of chimes rang out a specific alarm: dragonstorm, half a day, southwest."
+Magic: The Gathering,Hollowmurk Siege,"As this enchantment enters, choose Sultai or Abzan.
+• Sultai — Whenever a counter is put on a creature you control, draw a card. This ability triggers only once each turn.
+• Abzan — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains menace until end of turn.",Enchantment,Hollowmurk Siege,,"B,G",rare,
+Magic: The Gathering,Host of the Hereafter,"This creature enters with two +1/+1 counters on it.
+Whenever this creature or another creature you control dies, if it had counters on it, put its counters on up to one target creature you control.",Creature — Zombie Warlock,Host of the Hereafter,2,"B,G",uncommon,"""I agreed to return and aid the Sultai. My friends here agreed to return and aid me."""
+Magic: The Gathering,Humbling Elder,"Flash
+When this creature enters, target creature an opponent controls gets -2/-0 until end of turn.",Creature — Human Monk,Humbling Elder,1,U,common,"""There is no better way to measure a person's true character than to let them think they're above you.""
+—Master Xian"
+Magic: The Gathering,Hundred-Battle Veteran,"As long as there are three or more different kinds of counters among creatures you control, this creature gets +2/+4.
+You may cast this card from your graveyard. If you do, it enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",Creature — Zombie Warrior,Hundred-Battle Veteran,4,B,uncommon,She's eager to start a new winning streak.
+Magic: The Gathering,Iceridge Serpent,"When this creature enters, return target creature an opponent controls to its owner's hand.",Creature — Serpent,Iceridge Serpent,3,U,common,"""Even dragons avoid Glintglaze Lake in this season. Which of you youngsters can tell me why?""
+—Teacher Eliam"
+Magic: The Gathering,Inevitable Defeat,"This spell can't be countered.
+Exile target nonland permanent. Its controller loses 3 life and you gain 3 life.",Instant,Inevitable Defeat,,"B,R,W",rare,"""We came seeking a challenge. It seems we must continue searching.""
+—Zurgo, khan of the Mardu"
+Magic: The Gathering,Inspirited Vanguard,"Whenever this creature enters or attacks, it endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",Creature — Human Soldier,Inspirited Vanguard,3,G,uncommon,Abzan soldiers know they never enter battle alone.
+Magic: The Gathering,Iridescent Tiger,"When this creature enters, if you cast it, add {W}{U}{B}{R}{G}.",Creature — Cat,Iridescent Tiger,3,R,uncommon,The power of the dragonstorms transformed not only the land but many of the creatures within it.
+Magic: The Gathering,Island,({T}: Add {U}.),Basic Land — Island,Island,,,common,
+Magic: The Gathering,Jade-Cast Sentinel,"Reach
+{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.",Artifact Creature — Ape Snake,Jade-Cast Sentinel,1,,common,"Set in motion by artificers long forgotten, it remained loyal through the ages to the occupants of Kheru City."
+Magic: The Gathering,Jeskai Brushmaster,"Double strike
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",Creature — Orc Monk,Jeskai Brushmaster,2,"R,U,W",uncommon,Elegance. Precision. Grace. Qualities that must be practiced in writing as well as combat.
+Magic: The Gathering,Jeskai Devotee,"Flurry — Whenever you cast your second spell each turn, this creature gets +1/+1 until end of turn.
+{1}: Add {U}, {R}, or {W}. Activate only once each turn.",Creature — Orc Monk,Jeskai Devotee,2,R,common,"A master of the Whirling Blade technique, he did not hesitate to leap to the monastery's defense."
+Magic: The Gathering,Jeskai Monument,"When this artifact enters, search your library for a basic Island, Mountain, or Plains card, reveal it, put it into your hand, then shuffle.
+{1}{U}{R}{W}, {T}, Sacrifice this artifact: Create two 1/1 white Bird creature tokens with flying. Activate only as a sorcery.",Artifact,Jeskai Monument,,,uncommon,
+Magic: The Gathering,Jeskai Revelation,Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.,Instant,Jeskai Revelation,,"R,U,W",mythic,"""No one of us could have built all this alone. A clan, a school, hope for the future. Thank you all.""
+—Narset, to Shiko, Taigam, and Elsha"
+Magic: The Gathering,Jeskai Shrinekeeper,"Flying, haste
+Whenever this creature deals combat damage to a player, you gain 1 life and draw a card.",Creature — Dragon,Jeskai Shrinekeeper,3,"R,U,W",uncommon,"Like clouds and snow, Jeskai dragons prefer to drift among the monastery's highest spires."
+Magic: The Gathering,Jungle Hollow,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.",Land,Jungle Hollow,,,common,Long-standing disagreements between the Sultai and Abzan about how to honor their dead have led to rare but fierce skirmishes.
+Magic: The Gathering,Karakyk Guardian,"Flying, vigilance, trample
+This creature has hexproof if it hasn't dealt damage yet. (It can't be the target of spells or abilities your opponents control.)",Creature — Dragon,Karakyk Guardian,6,"G,R,U",uncommon,"As the Temur returned to Karakyk during the chill of winter, some shadows overhead were a blessing rather than a threat."
+Magic: The Gathering,Kheru Goldkeeper,"Flying
+Whenever one or more cards leave your graveyard during your turn, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Renew — {2}{B}{G}{U}, Exile this card from your graveyard: Put two +1/+1 counters and a flying counter on target creature. Activate only as a sorcery.",Creature — Dragon,Kheru Goldkeeper,3,"B,G,U",uncommon,
+Magic: The Gathering,Kin-Tree Nurturer,"Lifelink
+When this creature enters, it endures 1. (Put a +1/+1 counter on it or create a 1/1 white Spirit creature token.)",Creature — Human Druid,Kin-Tree Nurturer,2,B,common,"""Thank the ancestors. A few more weeks, and we would have discovered nothing but dead wood and lost kin."""
+Magic: The Gathering,Kin-Tree Severance,Exile target permanent with mana value 3 or greater.,Instant,Kin-Tree Severance,,"B,G,W",uncommon,"""For his crimes—burn his blood and cut him from his ancestors. Perennation is only for family.""
+—Dictate of House Mevak in the banishment of Oret"
+Magic: The Gathering,Kishla Skimmer,"Flying
+Whenever a card leaves your graveyard during your turn, draw a card. This ability triggers only once each turn.",Creature — Bird Scout,Kishla Skimmer,2,"G,U",uncommon,"""Rising waters have flooded many old places from the dragon's rule. I do not miss them."""
+Magic: The Gathering,Kishla Trawlers,"When this creature enters, you may exile a creature card from your graveyard. When you do, return target instant or sorcery card from your graveyard to your hand.",Creature — Human Citizen,Kishla Trawlers,3,U,uncommon,"""Fish are like any other crop or flock. They must be carefully tended and never overharvested.""
+—Nasath, Kishla fisher"
+Magic: The Gathering,Kishla Village,"This land enters tapped unless you control an Island or a Swamp.
+{T}: Add {G}.
+{3}{G}, {T}: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",Land,Kishla Village,,,rare,
+Magic: The Gathering,Knockout Maneuver,"Put a +1/+1 counter on target creature you control, then it deals damage equal to its power to target creature an opponent controls.",Sorcery,Knockout Maneuver,,G,uncommon,An exceptional bout during the Zenith celebration will be noted by Temur elders and result in recruitment for higher ranks.
+Magic: The Gathering,"Kotis, the Fangkeeper","Indestructible
+Whenever Kotis deals combat damage to a player, exile the top X cards of their library, where X is the amount of damage dealt. You may cast any number of spells with mana value X or less from among them without paying their mana costs.",Legendary Creature — Zombie Warrior,"Kotis, the Fangkeeper",2,"B,G,U",rare,
+Magic: The Gathering,Krotiq Nestguard,"Defender
+{2}{G}: This creature can attack this turn as though it didn't have defender.",Creature — Insect,Krotiq Nestguard,4,G,common,"The bushwhacker's machete glanced off the root with a sickening crack. Slowly, the entire undergrowth turned to face him."
+Magic: The Gathering,Krumar Initiate,"{X}{B}, {T}, Pay X life: This creature endures X. Activate only as a sorcery. (Put X +1/+1 counters on it or create an X/X white Spirit creature token.)",Creature — Human Cleric,Krumar Initiate,2,B,uncommon,"""Welcome,"" the spirits of House Emesh whispered to Cemal. ""Welcome, newest sprout of our Kin-Tree."""
+Magic: The Gathering,Lasyd Prowler,"When this creature enters, you may mill cards equal to the number of lands you control.
+Renew — {1}{G}, Exile this card from your graveyard: Put X +1/+1 counters on target creature, where X is the number of land cards in your graveyard. Activate only as a sorcery.",Creature — Snake Ranger,Lasyd Prowler,5,G,rare,
+Magic: The Gathering,Lie in Wait,Return target creature card from your graveyard to your hand. Lie in Wait deals damage equal to that card's power to target creature.,Sorcery,Lie in Wait,,"B,G,U",uncommon,Some paths through Gurmag Swamp are deserted for good reason.
+Magic: The Gathering,Lightfoot Technique,"Put a +1/+1 counter on target creature. It gains flying and indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",Instant,Lightfoot Technique,,W,common,Jeskai monks spreading the Way in Abzan territories develop swift reflexes or find their travels abruptly cut short.
+Magic: The Gathering,Lotuslight Dancers,"Lifelink
+When this creature enters, search your library for a black card, a green card, and a blue card. Put those cards into your graveyard, then shuffle.",Creature — Zombie Bard,Lotuslight Dancers,3,"B,G,U",rare,They've attained a level of synchronicity beyond what's possible in a single lifetime.
+Magic: The Gathering,Loxodon Battle Priest,"At the beginning of combat on your turn, put a +1/+1 counter on another target creature you control.",Creature — Elephant Cleric,Loxodon Battle Priest,3,W,uncommon,"""I grant you the strength of Qatros's walls and the tenacity of Arashin's oasis."""
+Magic: The Gathering,Maelstrom of the Spirit Dragon,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Dragon spell or an Omen spell.
+{4}, {T}, Sacrifice this land: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.",Land,Maelstrom of the Spirit Dragon,,,rare,
+Magic: The Gathering,Magmatic Hellkite,"Flying
+When this creature enters, destroy target nonbasic land an opponent controls. Its controller searches their library for a basic land card, puts it onto the battlefield tapped with a stun counter on it, then shuffles. (If a permanent with a stun counter would become untapped, remove one from it instead.)",Creature — Dragon,Magmatic Hellkite,4,R,rare,
+Magic: The Gathering,Mammoth Bellow,"Create a 5/5 green Elephant creature token.
+Harmonize {5}{G}{U}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)",Sorcery,Mammoth Bellow,,"G,R,U",uncommon,
+Magic: The Gathering,Marang River Regent // Coil and Catch,,Creature — Dragon // Instant — Omen,Marang River Regent // Coil and Catch,6,U,rare,
+Magic: The Gathering,Mardu Devotee,"When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+{1}: Add {R}, {W}, or {B}. Activate only once each turn.",Creature — Human Scout,Mardu Devotee,1,W,common,"Eskeg and his companion stood watch, the sights of the steppe a constant inspiration."
+Magic: The Gathering,Mardu Monument,"When this artifact enters, search your library for a basic Mountain, Plains, or Swamp card, reveal it, put it into your hand, then shuffle.
+{2}{R}{W}{B}, {T}, Sacrifice this artifact: Create three 1/1 red Warrior creature tokens. They gain menace and haste until end of turn. Activate only as a sorcery. (A creature with menace can't be blocked except by two or more creatures.)",Artifact,Mardu Monument,,,uncommon,
+Magic: The Gathering,Mardu Siegebreaker,"Deathtouch, haste
+When this creature enters, exile up to one other target creature you control until this creature leaves the battlefield.
+Whenever this creature attacks, for each opponent, create a tapped token that's a copy of the exiled card attacking that opponent. At the beginning of your next end step, sacrifice those tokens.",Creature — Human Warrior,Mardu Siegebreaker,4,"B,R,W",rare,
+Magic: The Gathering,Marshal of the Lost,"Deathtouch
+Whenever you attack, target creature gets +X/+X until end of turn, where X is the number of attacking creatures.",Creature — Orc Warrior,Marshal of the Lost,3,"B,W",uncommon,"Gvar carved his way through the Ancestral Maelstrom, seeking to restore the withered Kin-Tree and soothe the raging spirits."
+Magic: The Gathering,Meticulous Artisan,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",Creature — Djinn Artificer,Meticulous Artisan,3,R,common,"""It isn't about expression or results. Doing the thing is itself the point."""
+Magic: The Gathering,Mistrise Village,"This land enters tapped unless you control a Mountain or a Forest.
+{T}: Add {U}.
+{U}, {T}: The next spell you cast this turn can't be countered.",Land,Mistrise Village,,,rare,"Built on a fumarole field, the village is a refuge of warmth amid the ice of the Qal Sisma mountains."
+Magic: The Gathering,Molten Exhale,"You may cast this spell as though it had flash if you behold a Dragon as an additional cost to cast it. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Molten Exhale deals 4 damage to target creature or planeswalker.",Sorcery,Molten Exhale,,R,common,
+Magic: The Gathering,Monastery Messenger,"Flying, vigilance
+When this creature enters, put up to one target noncreature, nonland card from your graveyard on top of your library.",Creature — Bird Scout,Monastery Messenger,2,"R,U,W",common,"Lanniao soared from Highspire Monastery all throughout Tarkir, carrying messages for monks and villagers alike."
+Magic: The Gathering,Mountain,({T}: Add {R}.),Basic Land — Mountain,Mountain,,,common,
+Magic: The Gathering,Mox Jasper,{T}: Add one mana of any color. Activate only if you control a Dragon.,Legendary Artifact,Mox Jasper,,,mythic,"""Rage. Greed. Arrogance. People only accuse dragons of what they fear in themselves.""
+—Sarkhan"
+Magic: The Gathering,Mystic Monastery,"This land enters tapped.
+{T}: Add {U}, {R}, or {W}.",Land,Mystic Monastery,,,uncommon,"Through sun and storm, across steppe and swamp, Storm Crane Monastery flies wherever aid is needed."
+Magic: The Gathering,Naga Fleshcrafter,"You may have this creature enter as a copy of any creature on the battlefield.
+Renew — {2}{U}, Exile this card from your graveyard: Put a +1/+1 counter on target nonlegendary creature you control. Each other creature you control becomes a copy of that creature until end of turn. Activate only as a sorcery.",Creature — Snake Shapeshifter,Naga Fleshcrafter,0,U,rare,
+Magic: The Gathering,"Narset, Jeskai Waymaster","At the beginning of your end step, you may discard your hand. If you do, draw cards equal to the number of spells you've cast this turn.",Legendary Creature — Human Monk,"Narset, Jeskai Waymaster",3,"R,U,W",rare,"""Each step we take is a decision that changes the course of our futures. We must be careful where we tread."""
+Magic: The Gathering,Narset's Rebuke,"Narset's Rebuke deals 5 damage to target creature. Add {U}{R}{W}. If that creature would die this turn, exile it instead.",Instant,Narset's Rebuke,,R,common,With a swift motion Narset struck Sarkhan down. She would not let his fevered dreams of draconic dominance come to fruition. Not after all she had done to free Tarkir.
+Magic: The Gathering,Nature's Rhythm,"Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.
+Harmonize {X}{G}{G}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by an amount of generic mana equal to its power. Then exile this spell.)",Sorcery,Nature's Rhythm,,G,rare,
+Magic: The Gathering,"Neriv, Heart of the Storm","Flying
+If a creature you control that entered this turn would deal damage, it deals twice that much damage instead.",Legendary Creature — Spirit Dragon,"Neriv, Heart of the Storm",4,"B,R,W",mythic,"Scales streaked with lightning, trailing thunder in his wake, Neriv is the living banner around which the Mardu rally."
+Magic: The Gathering,New Way Forward,"The next time a source of your choice would deal damage to you this turn, prevent that damage. When damage is prevented this way, New Way Forward deals that much damage to that source's controller and you draw that many cards.",Instant,New Way Forward,,"R,U,W",rare,
+Magic: The Gathering,Nightblade Brigade,"Deathtouch
+Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",Creature — Goblin Soldier,Nightblade Brigade,1,B,common,
+Magic: The Gathering,Nomad Outpost,"This land enters tapped.
+{T}: Add {R}, {W}, or {B}.",Land,Nomad Outpost,,,uncommon,"""The Mardu breathe life into what was lost under the dragonlords. If the Abzan are upset, it should be at themselves.""
+—Tersa Lightshatter"
+Magic: The Gathering,Opulent Palace,"This land enters tapped.
+{T}: Add {B}, {G}, or {U}.",Land,Opulent Palace,,,uncommon,"""The people must know that the former seat of their oppression is cleansed. Throw open Qarsi's gates and let them see for themselves.""
+—Kotis, the Fangkeeper"
+Magic: The Gathering,Osseous Exhale,"As an additional cost to cast this spell, you may behold a Dragon. (You may choose a Dragon you control or reveal a Dragon card from your hand.)
+Osseous Exhale deals 5 damage to target attacking or blocking creature. If a Dragon was beheld, you gain 2 life.",Instant,Osseous Exhale,,W,common,
+Magic: The Gathering,Overwhelming Surge,"Choose one or both —
+• Overwhelming Surge deals 3 damage to target creature.
+• Destroy target noncreature artifact.",Instant,Overwhelming Surge,,R,uncommon,Mardu lightning rods disperse the energy of dragonstorms—or whatever happens to be touching the rods.
+Magic: The Gathering,Perennation,Return target permanent card from your graveyard to the battlefield with a hexproof counter and an indestructible counter on it.,Sorcery,Perennation,,"B,G,W",mythic,"The Abzan believe in perennation—death is not only an end, but a return to the beginning."
+Magic: The Gathering,Piercing Exhale,"As an additional cost to cast this spell, you may behold a Dragon. (You may choose a Dragon you control or reveal a Dragon card from your hand.)
+Target creature you control deals damage equal to its power to target creature or planeswalker. If a Dragon was beheld, surveil 2.",Instant,Piercing Exhale,,G,common,
+Magic: The Gathering,Plains,({T}: Add {W}.),Basic Land — Plains,Plains,,,common,
+Magic: The Gathering,Poised Practitioner,"Flurry — Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",Creature — Human Monk,Poised Practitioner,2,W,common,"""Excellent form, Jun! Just keep your weight on that back foot, and you'll master this in no time.""
+—Narset"
+Magic: The Gathering,Purging Stormbrood // Absorb Essence,,Creature — Dragon // Instant — Omen,Purging Stormbrood // Absorb Essence,4,B,uncommon,
+Magic: The Gathering,Qarsi Revenant,"Flying, deathtouch, lifelink
+Renew — {2}{B}, Exile this card from your graveyard: Put a flying counter, a deathtouch counter, and a lifelink counter on target creature. Activate only as a sorcery.",Creature — Vampire,Qarsi Revenant,3,B,rare,"""Evil wears many faces. Keep your windows closed at night, or it might wear yours.""
+—Sultai warning"
+Magic: The Gathering,Rainveil Rejuvenator,"When this creature enters, you may mill three cards. (You may put the top three cards of your library into your graveyard.)
+{T}: Add an amount of {G} equal to this creature's power.",Creature — Elephant Druid,Rainveil Rejuvenator,2,G,uncommon,"In the aftermath of war, Temur mages nurtured the land back to its former vitality."
+Magic: The Gathering,Rakshasa's Bargain,Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard.,Instant,Rakshasa's Bargain,,"B,G,U",uncommon,"""You know you shouldn't and the Sultai forbid you. But you can't resist the temptation, can you?"""
+Magic: The Gathering,Rally the Monastery,"This spell costs {2} less to cast if you've cast another spell this turn.
+Choose one —
+• Create two 1/1 white Monk creature tokens with prowess.
+• Up to two target creatures you control each get +2/+2 until end of turn.
+• Destroy target creature with power 4 or greater.",Instant,Rally the Monastery,,W,uncommon,
+Magic: The Gathering,Rebellious Strike,"Target creature gets +3/+0 until end of turn.
+Draw a card.",Instant,Rebellious Strike,,W,common,"""Even if you battle unseen, even if there is no one to witness your sacrifice—strike! Strike true. Strike from the heart. Let that be your legacy.""
+—Shiko"
+Magic: The Gathering,Rediscover the Way,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+III — Whenever you cast a noncreature spell this turn, target creature you control gains double strike until end of turn.",Enchantment — Saga,Rediscover the Way,,"R,U,W",rare,
+Magic: The Gathering,Reigning Victor,"Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)
+When this creature enters, target creature gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",Creature — Orc Warrior,Reigning Victor,3,"B,R,W",common,
+Magic: The Gathering,Reputable Merchant,"When this creature enters or dies, put a +1/+1 counter on target creature you control.",Creature — Human Citizen,Reputable Merchant,2,"B,G,W",common,"""Dried durian from the Marang River Valley! Candied cherries from the slopes of Cori! Genuine dragon scale cookware!"""
+Magic: The Gathering,Rescue Leopard,"Whenever this creature becomes tapped, you may discard a card. If you do, draw a card.",Creature — Cat,Rescue Leopard,4,R,common,"""The scouts should have been back hours ago. They might be in trouble. I'm sending Kyra.""
+—Eshki Dragonclaw"
+Magic: The Gathering,Reverberating Summons,"At the beginning of each combat, if you've cast two or more spells this turn, this enchantment becomes a 3/3 Monk creature with haste in addition to its other types until end of turn.
+{1}{R}, Discard your hand, Sacrifice this enchantment: Draw two cards.",Enchantment,Reverberating Summons,,R,uncommon,
+Magic: The Gathering,Revival of the Ancestors,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create three 1/1 white Spirit creature tokens.
+II — Distribute three +1/+1 counters among one, two, or three target creatures you control.
+III — Creatures you control gain trample and lifelink until end of turn.",Enchantment — Saga,Revival of the Ancestors,,"B,G,W",rare,
+Magic: The Gathering,Riling Dawnbreaker // Signaling Roar,,Creature — Dragon // Sorcery — Omen,Riling Dawnbreaker // Signaling Roar,3,W,common,
+Magic: The Gathering,Ringing Strike Mastery,"Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has ""{5}: Untap this creature.""",Enchantment — Aura,Ringing Strike Mastery,,U,common,
+Magic: The Gathering,Rite of Renewal,Return up to two target permanent cards from your graveyard to your hand. Target player shuffles up to four target cards from their graveyard into their library. Exile Rite of Renewal.,Sorcery,Rite of Renewal,,G,uncommon,The greatest honor a Sultai can receive is to be returned to the realm of the living.

@@ -1,0 +1,13 @@
+flask
+werkzeug
+pandas
+numpy
+pillow
+torch
+torchvision
+ultralytics
+paddleocr
+paddlepaddle
+openai
+jiwer
+python-dotenv
