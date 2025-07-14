@@ -123,6 +123,7 @@ class OCRStringMatcher:
 
         for image_name, ocr_text in ocr_texts.items():
             print(f"\nProcessing {image_name}...")
+            print(f"OCR Text: {ocr_text}")
 
             best_match = None
             best_index = None
@@ -131,6 +132,7 @@ class OCRStringMatcher:
             best_gt_combined = None
 
             ocr_transformed = self.transform(ocr_text)
+            print(f"Transformed OCR: {ocr_transformed}")
 
             for idx, row in self.ground_truth_df.iterrows():
                 # Concatenate all relevant fields in the ground truth row
@@ -167,17 +169,31 @@ class OCRStringMatcher:
                     best_cer = cer
                     best_gt_combined = gt_combined
 
-            if best_match is None:
-                print(f"  ❗ No usable ground truth row found. Skipping.")
+            # Only accept matches with high confidence
+            # WER ≤ 0.2 means at least 80% similarity
+            if best_match is None or best_wer > 0.2:
+                print(f"  ❌ No good matches found for '{ocr_text}' (best WER: {best_wer:.2f} - need ≤ 0.20 for 80% match)")
+                self.results.append({
+                    "image": image_name,
+                    "ground_truth_idx": None,
+                    "WER": 1.0,
+                    "CER": 1.0,
+                    "gt_text": "Card not found in database",
+                    "ocr_text": ocr_text,
+                    "match_quality": "not_found"
+                })
                 continue
 
+            print(f"  ✅ Good match found: {best_gt_combined} (WER: {best_wer:.2f} - {((1-best_wer)*100):.1f}% similarity)")
+            
             self.results.append({
                 "image": image_name,
                 "ground_truth_idx": best_index,
                 "WER": best_wer,
                 "CER": best_cer,
                 "gt_text": best_gt_combined,
-                "ocr_text": ocr_text
+                "ocr_text": ocr_text,
+                "match_quality": "good" if best_wer <= 0.1 else "acceptable"
             })
 
         return pd.DataFrame(self.results)

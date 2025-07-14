@@ -268,36 +268,55 @@ def search_database():
         
         # Format results for display
         search_results = {}
+        good_matches = 0
         
         for idx, (_, row) in enumerate(results_df.iterrows()):
             # Use the actual image name from the results
             card_name = row['image']
             
-            # Get the corresponding database entry
-            db_entry = database_df.iloc[row['ground_truth_idx']]
-            
-            # Format the database match information
-            match_info = {
-                'card_title': str(db_entry.get('card_title', 'N/A')),
-                'game_name': str(db_entry.get('game_name', 'N/A')),
-                'description': str(db_entry.get('description', 'N/A')),
-                'tags': str(db_entry.get('tags', 'N/A')),
-                'figure_name': str(db_entry.get('figure_name', 'N/A')),
-                'power': str(db_entry.get('power', 'N/A')),
-                'suit': str(db_entry.get('suit', 'N/A')),
-                'rank': str(db_entry.get('rank', 'N/A')),
-                'extra_notes': str(db_entry.get('extra_notes', 'N/A')),
-                'wer': f"{row['WER']:.2%}",
-                'cer': f"{row['CER']:.2%}",
-                'match_confidence': f"{(1 - row['WER']) * 100:.1f}%"
-            }
+            # Check if this was a good match
+            if row.get('ground_truth_idx') is None or row.get('match_quality') == 'not_found':
+                # No good match found (less than 80% similarity) - simplified display
+                match_info = {
+                    'card_title': 'Card Not in Database',
+                    'simplified': True  # Flag to indicate simplified display
+                }
+            else:
+                # Good match found (80%+ similarity)
+                good_matches += 1
+                
+                # Get the corresponding database entry
+                db_entry = database_df.iloc[row['ground_truth_idx']]
+                
+                # Calculate similarity percentage
+                similarity = (1 - row['WER']) * 100
+                
+                # Format the database match information
+                match_info = {
+                    'card_title': str(db_entry.get('card_title', 'N/A')),
+                    'game_name': str(db_entry.get('game_name', 'N/A')),
+                    'description': str(db_entry.get('description', 'N/A')),
+                    'tags': str(db_entry.get('tags', 'N/A')),
+                    'figure_name': str(db_entry.get('figure_name', 'N/A')),
+                    'power': str(db_entry.get('power', 'N/A')),
+                    'suit': str(db_entry.get('suit', 'N/A')),
+                    'rank': str(db_entry.get('rank', 'N/A')),
+                    'extra_notes': str(db_entry.get('extra_notes', 'N/A')),
+                    'wer': f"{row['WER']:.2%}",
+                    'cer': f"{row['CER']:.2%}",
+                    'match_confidence': f"{similarity:.1f}% match",
+                    'match_quality': row.get('match_quality', 'good'),
+                    'simplified': False
+                }
             
             search_results[card_name] = match_info
         
         return jsonify({
             'success': True,
             'search_results': search_results,
-            'num_matches': len(results_df)
+            'num_matches': len(results_df),
+            'good_matches': good_matches,
+            'message': f"Found {good_matches} good matches out of {len(results_df)} cards processed"
         })
         
     except Exception as e:

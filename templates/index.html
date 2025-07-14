@@ -603,7 +603,7 @@
                 hideLoading();
                 if (data.success) {
                     displayDatabaseResults(data.search_results);
-                    showSuccess(`Found ${data.num_matches} database matches`);
+                    showSuccess(`Found ${data.good_matches} database matches`);
                 } else {
                     showError(data.error || 'Database search failed');
                 }
@@ -655,48 +655,55 @@
                 const resultDiv = document.createElement('div');
                 resultDiv.className = 'database-result';
                 
-                resultDiv.innerHTML = `
-                    <h4>${card} - ${match.card_title}</h4>
-                    <div class="database-info">
-                        <div class="info-item">
-                            <div class="info-label">Game</div>
-                            <div class="info-value">${match.game_name}</div>
+                // Check if this is a simplified "not found" entry
+                if (match.simplified) {
+                    // Simple display for cards not in database
+                    resultDiv.innerHTML = `<h4>${card} - ${match.card_title}</h4>`;
+                } else {
+                    // Full display for cards found in database
+                    resultDiv.innerHTML = `
+                        <h4>${card} - ${match.card_title}</h4>
+                        <div class="database-info">
+                            <div class="info-item">
+                                <div class="info-label">Game</div>
+                                <div class="info-value">${match.game_name}</div>
+                            </div>
+                            <div class="info-item">
+                                <div class="info-label">Description</div>
+                                <div class="info-value">${match.description}</div>
+                            </div>
+                            <div class="info-item">
+                                <div class="info-label">Tags</div>
+                                <div class="info-value">${match.tags}</div>
+                            </div>
+                            <div class="info-item">
+                                <div class="info-label">Figure</div>
+                                <div class="info-value">${match.figure_name}</div>
+                            </div>
+                            <div class="info-item">
+                                <div class="info-label">Power</div>
+                                <div class="info-value">${match.power}</div>
+                            </div>
+                            <div class="info-item">
+                                <div class="info-label">Suit</div>
+                                <div class="info-value">${match.suit}</div>
+                            </div>
+                            <div class="info-item">
+                                <div class="info-label">Rank</div>
+                                <div class="info-value">${match.rank}</div>
+                            </div>
+                            <div class="info-item">
+                                <div class="info-label">Notes</div>
+                                <div class="info-value">${match.extra_notes}</div>
+                            </div>
                         </div>
-                        <div class="info-item">
-                            <div class="info-label">Description</div>
-                            <div class="info-value">${match.description}</div>
+                        <div class="match-confidence">
+                            Match Confidence: ${match.match_confidence}
+                            <br>
+                            <small>WER: ${match.wer} | CER: ${match.cer}</small>
                         </div>
-                        <div class="info-item">
-                            <div class="info-label">Tags</div>
-                            <div class="info-value">${match.tags}</div>
-                        </div>
-                        <div class="info-item">
-                            <div class="info-label">Figure</div>
-                            <div class="info-value">${match.figure_name}</div>
-                        </div>
-                        <div class="info-item">
-                            <div class="info-label">Power</div>
-                            <div class="info-value">${match.power}</div>
-                        </div>
-                        <div class="info-item">
-                            <div class="info-label">Suit</div>
-                            <div class="info-value">${match.suit}</div>
-                        </div>
-                        <div class="info-item">
-                            <div class="info-label">Rank</div>
-                            <div class="info-value">${match.rank}</div>
-                        </div>
-                        <div class="info-item">
-                            <div class="info-label">Notes</div>
-                            <div class="info-value">${match.extra_notes}</div>
-                        </div>
-                    </div>
-                    <div class="match-confidence">
-                        Match Confidence: ${match.match_confidence}
-                        <br>
-                        <small>WER: ${match.wer} | CER: ${match.cer}</small>
-                    </div>
-                `;
+                    `;
+                }
                 resultsDiv.appendChild(resultDiv);
             });
 
