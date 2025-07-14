@@ -158,6 +158,9 @@ class OCRProcessor:
                         text = text_info[0] if isinstance(text_info, (list, tuple)) else text_info
                         conf = text_info[1] if isinstance(text_info, (list, tuple)) and len(text_info) > 1 else 0.0
                         
+                        # print
+                        print(f"Confidence: {conf}, BBox: {bbox}")
+
                         extracted.append({
                             "text": text,
                             "confidence": float(conf),
