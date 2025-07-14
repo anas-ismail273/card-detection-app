@@ -1,15 +1,11 @@
 [phases.setup]
-nixPkgs = ["python39", "python39Packages.pip", "python39Packages.setuptools", "python39Packages.wheel"]
-aptPkgs = ["python3-dev", "python3-distutils", "build-essential", "libgl1-mesa-glx", "libglib2.0-0"]
+nixPkgs = ["python39", "python39Packages.pip", "python39Packages.setuptools", "python39Packages.wheel", "pkg-config", "libGL", "glib"]
 
 [phases.install]
 cmds = [
     "python -m pip install --upgrade pip setuptools wheel",
     "python -m pip install --no-cache-dir -r requirements.txt"
 ]
-
-[phases.build]
-cmds = ["echo 'Build phase complete'"]
 
 [start]
 cmd = "python app.py"
