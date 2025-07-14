@@ -145,34 +145,80 @@ class OCRProcessor:
             print(f"Processing OCR for: {img_path}")
             try:
                 ocr_result = self.ocr.ocr(img_path)
-
+                
+                # Debug: print raw OCR result structure
+                print(f"Raw OCR result type: {type(ocr_result)}")
+                
                 if not ocr_result or not isinstance(ocr_result, list) or not ocr_result[0]:
+                    print("No OCR results found")
                     self.results[img_path] = []
                     continue
 
                 extracted = []
-                print(f"Found {ocr_result[0]} text lines in {img_path}")
-                for line in ocr_result[0]:
+                text_lines = ocr_result[0]
+                print(f"Found {len(text_lines)} text lines in {img_path}")
+                
+                for line in text_lines:
                     if line and len(line) >= 2:
                         print(f"Processing line: {line}")
+                        
+                        # PaddleOCR returns: [bbox, (text, confidence)]
                         bbox = line[0]
                         text_info = line[1]
-                        text = text_info[0] if isinstance(text_info, (list, tuple)) else text_info
-                        conf = text_info[1] if isinstance(text_info, (list, tuple)) and len(text_info) > 1 else 0.0
                         
-                        # print
-                        print(f"Confidence: {conf}, BBox: {bbox}")
-
-                        extracted.append({
-                            "text": text,
-                            "confidence": float(conf),
-                            "bbox": [[float(pt[0]), float(pt[1])] for pt in bbox]
-                        })
+                        # Extract text and confidence
+                        if isinstance(text_info, (list, tuple)) and len(text_info) >= 2:
+                            text = text_info[0]
+                            conf = text_info[1]
+                        else:
+                            text = str(text_info)
+                            conf = 0.0
+                        
+                        print(f"Text: '{text}', Confidence: {conf}")
+                        print(f"BBox type: {type(bbox)}, BBox: {bbox}")
+                        
+                        # Validate and convert bounding box coordinates
+                        try:
+                            if isinstance(bbox, (list, tuple)) and len(bbox) >= 4:
+                                # Convert coordinates to float, handling potential string values
+                                converted_bbox = []
+                                for pt in bbox:
+                                    if isinstance(pt, (list, tuple)) and len(pt) >= 2:
+                                        # More robust number validation
+                                        try:
+                                            x = float(pt[0])
+                                            y = float(pt[1])
+                                            converted_bbox.append([x, y])
+                                        except (ValueError, TypeError):
+                                            print(f"Invalid coordinate values: {pt}")
+                                            converted_bbox.append([0.0, 0.0])
+                                    else:
+                                        print(f"Invalid point format: {pt}")
+                                        converted_bbox.append([0.0, 0.0])
+                                
+                                if len(converted_bbox) >= 4:
+                                    extracted.append({
+                                        "text": text,
+                                        "confidence": float(conf) if isinstance(conf, (int, float)) else 0.0,
+                                        "bbox": converted_bbox
+                                    })
+                                else:
+                                    print(f"Insufficient bbox points: {converted_bbox}")
+                            else:
+                                print(f"Invalid bbox format: {bbox}")
+                                
+                        except (ValueError, TypeError) as e:
+                            print(f"Error converting bbox coordinates: {e}")
+                            print(f"Problematic bbox: {bbox}")
+                            # Skip this detection if bbox conversion fails
+                            continue
 
                 self.results[img_path] = extracted
                 
             except Exception as e:
                 print(f"Error processing {img_path}: {e}")
+                import traceback
+                traceback.print_exc()
                 self.results[img_path] = []
 
         return self.results
