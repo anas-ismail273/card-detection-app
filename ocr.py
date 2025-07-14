@@ -39,10 +39,12 @@ def load_environment_secrets():
 OPENAI_API_KEY = load_environment_secrets()
 
 # Try to import the required libraries with proper error handling
+YOLO_AVAILABLE = True
 try:
     from ultralytics import YOLO
 except ImportError:
     print("Warning: ultralytics not installed. Please install it with: pip install ultralytics")
+    YOLO_AVAILABLE = False
     
 try:
     from paddleocr import PaddleOCR
@@ -60,7 +62,14 @@ print(f"Working directory: {HOME}")
 
 class YoloMasker:
     def __init__(self, model_path, output_dir="masked_outputs"):
-        self.model = YOLO(model_path)
+        if not YOLO_AVAILABLE:
+            raise ImportError("YOLO is not available. Please ensure ultralytics is installed.")
+        
+        try:
+            self.model = YOLO(model_path)
+        except Exception as e:
+            raise RuntimeError(f"Failed to load YOLO model from {model_path}: {str(e)}")
+            
         self.output_dir = output_dir
         self.result = None
         os.makedirs(self.output_dir, exist_ok=True)

@@ -148,8 +148,13 @@ def process_image():
         
         print(f"Processing image: {image_path}")
         
-        # Initialize the YOLO masker
-        masker = YoloMasker(MODEL_PATH)
+        # Initialize the YOLO masker with better error handling
+        try:
+            masker = YoloMasker(MODEL_PATH)
+        except ImportError as e:
+            return jsonify({'error': f'YOLO dependencies not available: {str(e)}. Please check if ultralytics is properly installed.'}), 500
+        except RuntimeError as e:
+            return jsonify({'error': f'Failed to load YOLO model: {str(e)}'}), 500
         
         # Process the image to get masked individual cards
         masked_image_paths = masker.process(image_path, conf=0.75)
